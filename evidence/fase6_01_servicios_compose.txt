@@ -1,0 +1,7 @@
+grafana
+sample-nginx
+postgres
+python-app
+zabbix-agent2
+zabbix-server
+zabbix-web

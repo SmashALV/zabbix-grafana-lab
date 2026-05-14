@@ -1,0 +1,5 @@
+NETWORK ID     NAME                                     DRIVER    SCOPE
+2dbf0b1622c4   bridge                                   bridge    local
+63d6e43cfa38   host                                     host      local
+834470f2362b   none                                     null      local
+d557eca6a3e0   proyecto-gestion-zabbix_monitoring-net   bridge    local

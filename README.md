@@ -325,7 +325,20 @@ docker compose down -v
 
 ---
 
-## 14. Siguientes mejoras
+## 14. Validación de networking y diagnóstico
+
+Se realizaron pruebas de conectividad para validar la comunicación entre servicios del laboratorio:
+
+- Identificación de puertos publicados con `ss -tulpn`.
+- Revisión de interfaces y rutas con `ip addr` e `ip route`.
+- Inspección de la red Docker creada por Compose.
+- Pruebas HTTP con `curl -v`.
+- Validación de comunicación interna entre contenedores usando nombres de servicio Docker.
+- Escaneo local controlado con `scripts/05_network_discovery_scan.py`.
+
+Los resultados fueron documentados en la carpeta `evidence/`.
+
+## 15. Siguientes mejoras
 
 - Agregar alertas por correo o Telegram.
 - Monitorear una VM real en cloud.

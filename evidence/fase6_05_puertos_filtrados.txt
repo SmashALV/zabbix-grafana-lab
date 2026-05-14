@@ -1,0 +1,6 @@
+tcp   LISTEN 0      4096                *:10051            *:*                                  
+tcp   LISTEN 0      4096                *:10050            *:*                                  
+tcp   LISTEN 0      4096                *:3000             *:*                                  
+tcp   LISTEN 0      4096                *:5000             *:*                                  
+tcp   LISTEN 0      4096                *:8081             *:*                                  
+tcp   LISTEN 0      4096                *:8080             *:*                                  

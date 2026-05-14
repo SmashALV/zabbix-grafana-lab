@@ -1,0 +1,25 @@
+*   Trying 127.0.0.1:3000...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to localhost (127.0.0.1) port 3000 (#0)
+> GET / HTTP/1.1
+> Host: localhost:3000
+> User-Agent: curl/7.81.0
+> Accept: */*
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 302 Found
+< Cache-Control: no-store
+< Content-Type: text/html; charset=utf-8
+< Location: /login
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: deny
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 14 May 2026 02:43:55 GMT
+< Content-Length: 29
+< 
+{ [29 bytes data]
+100    29  100    29    0     0  18147      0 --:--:-- --:--:-- --:--:-- 29000
+* Connection #0 to host localhost left intact
+<a href="/login">Found</a>.
+

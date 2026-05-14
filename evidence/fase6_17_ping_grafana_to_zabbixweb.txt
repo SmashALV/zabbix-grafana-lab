@@ -1,0 +1,9 @@
+PING zabbix-web (172.18.0.6): 56 data bytes
+64 bytes from 172.18.0.6: seq=0 ttl=42 time=0.080 ms
+64 bytes from 172.18.0.6: seq=1 ttl=42 time=0.137 ms
+64 bytes from 172.18.0.6: seq=2 ttl=42 time=0.088 ms
+64 bytes from 172.18.0.6: seq=3 ttl=42 time=0.064 ms
+
+--- zabbix-web ping statistics ---
+4 packets transmitted, 4 packets received, 0% packet loss
+round-trip min/avg/max = 0.064/0.092/0.137 ms

@@ -1,0 +1,21 @@
+*   Trying 127.0.0.1:5000...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to localhost (127.0.0.1) port 5000 (#0)
+> GET /health HTTP/1.1
+> Host: localhost:5000
+> User-Agent: curl/7.81.0
+> Accept: */*
+> 
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Server: Werkzeug/3.1.8 Python/3.12.13
+< Date: Thu, 14 May 2026 02:43:22 GMT
+< Content-Type: application/json
+< Content-Length: 123
+< Connection: close
+< 
+{ [123 bytes data]
+100   123  100   123    0     0  75045      0 --:--:-- --:--:-- --:--:--  120k
+* Closing connection 0
+{"service":"Servicio Academico Demo","status":"ok","timestamp":"2026-05-14T02:43:22.858008+00:00","uptime_seconds":939.81}

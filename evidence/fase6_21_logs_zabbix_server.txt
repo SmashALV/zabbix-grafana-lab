@@ -1,0 +1,80 @@
+lab-zabbix-server  |    434:20260514:005013.294 server #42 started [trapper #4]
+lab-zabbix-server  |    428:20260514:005013.294 server #36 started [poller #9]
+lab-zabbix-server  |    435:20260514:005013.295 server #43 started [trapper #5]
+lab-zabbix-server  |    433:20260514:005013.295 server #41 started [trapper #3]
+lab-zabbix-server  |    436:20260514:005013.297 server #44 started [icmp pinger #1]
+lab-zabbix-server  |    438:20260514:005013.298 server #46 started [history poller #1]
+lab-zabbix-server  |    439:20260514:005013.298 server #47 started [history poller #2]
+lab-zabbix-server  |    437:20260514:005013.300 server #45 started [alert syncer #1]
+lab-zabbix-server  |    440:20260514:005013.300 server #48 started [history poller #3]
+lab-zabbix-server  |    445:20260514:005013.301 server #53 started [odbc poller #1]
+lab-zabbix-server  |    441:20260514:005013.303 server #49 started [history poller #4]
+lab-zabbix-server  |    450:20260514:005013.303 server #58 started [internal poller #1]
+lab-zabbix-server  |    451:20260514:005013.304 server #59 started [proxy group manager #1]
+lab-zabbix-server  |    442:20260514:005013.305 server #50 started [history poller #5]
+lab-zabbix-server  |    447:20260514:005013.305 server #55 started [agent poller #1]
+lab-zabbix-server  |    443:20260514:005013.307 server #51 started [availability manager #1]
+lab-zabbix-server  |    444:20260514:005013.307 server #52 started [trigger housekeeper #1]
+lab-zabbix-server  |    449:20260514:005013.307 server #57 started [configuration syncer worker #1]
+lab-zabbix-server  |    447:20260514:005013.308 thread started
+lab-zabbix-server  |    448:20260514:005013.308 server #56 started [snmp poller #1]
+lab-zabbix-server  |    448:20260514:005013.308 thread started
+lab-zabbix-server  |    446:20260514:005013.311 server #54 started [http agent poller #1]
+lab-zabbix-server  |    446:20260514:005013.311 thread started
+lab-zabbix-server  |    399:20260514:005013.397 [1] thread started [preprocessing worker #1]
+lab-zabbix-server  |    399:20260514:005013.397 [2] thread started [preprocessing worker #2]
+lab-zabbix-server  |    399:20260514:005013.398 [3] thread started [preprocessing worker #3]
+lab-zabbix-server  |    399:20260514:005013.398 [4] thread started [preprocessing worker #4]
+lab-zabbix-server  |    399:20260514:005013.398 [5] thread started [preprocessing worker #5]
+lab-zabbix-server  |    399:20260514:005013.398 [6] thread started [preprocessing worker #6]
+lab-zabbix-server  |    399:20260514:005013.398 [7] thread started [preprocessing worker #7]
+lab-zabbix-server  |    399:20260514:005013.398 [8] thread started [preprocessing worker #8]
+lab-zabbix-server  |    399:20260514:005013.398 [9] thread started [preprocessing worker #9]
+lab-zabbix-server  |    399:20260514:005013.398 [10] thread started [preprocessing worker #10]
+lab-zabbix-server  |    399:20260514:005013.399 [11] thread started [preprocessing worker #11]
+lab-zabbix-server  |    399:20260514:005013.399 [12] thread started [preprocessing worker #12]
+lab-zabbix-server  |    399:20260514:005013.399 [13] thread started [preprocessing worker #13]
+lab-zabbix-server  |    399:20260514:005013.399 [14] thread started [preprocessing worker #14]
+lab-zabbix-server  |    399:20260514:005013.399 [15] thread started [preprocessing worker #15]
+lab-zabbix-server  |    399:20260514:005013.399 [16] thread started [preprocessing worker #16]
+lab-zabbix-server  |    411:20260514:005013.406 thread started [discovery worker #1]
+lab-zabbix-server  |    411:20260514:005013.406 thread started [discovery worker #2]
+lab-zabbix-server  |    411:20260514:005013.406 thread started [discovery worker #3]
+lab-zabbix-server  |    411:20260514:005013.406 thread started [discovery worker #4]
+lab-zabbix-server  |    411:20260514:005013.406 thread started [discovery worker #5]
+lab-zabbix-server  |    434:20260514:005014.003 cannot send list of active checks to "172.18.0.7": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    447:20260514:005018.310 Zabbix agent item "system.cpu.util[,iowait]" on host "Zabbix server" failed: first network error, wait for 15 seconds
+lab-zabbix-server  |    447:20260514:005033.312 resuming Zabbix agent checks on host "Zabbix server": connection restored
+lab-zabbix-server  |    433:20260514:005115.000 cannot send list of active checks to "172.18.0.7": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260514:005215.997 cannot send list of active checks to "172.18.0.7": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    435:20260514:005315.995 cannot send list of active checks to "172.18.0.7": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    447:20260514:005324.307 enabling Zabbix agent checks on host "LAB - Docker Agent2": interface became available
+lab-zabbix-server  |    412:20260514:005357.545 item "LAB - Docker Agent2:vfs.dev.read.await[sda]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.read.time.rate[sda])/(last(//vfs.dev.read.rate[sda])+(last(//vfs.dev.read.rate[sda])=0)))*1000*(last(//vfs.dev.read.rate[sda]) > 0)".
+lab-zabbix-server  |    412:20260514:005358.547 item "LAB - Docker Agent2:vfs.dev.read.await[sdb]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.read.time.rate[sdb])/(last(//vfs.dev.read.rate[sdb])+(last(//vfs.dev.read.rate[sdb])=0)))*1000*(last(//vfs.dev.read.rate[sdb]) > 0)".
+lab-zabbix-server  |    412:20260514:005359.552 item "LAB - Docker Agent2:vfs.dev.read.await[sdc]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.read.time.rate[sdc])/(last(//vfs.dev.read.rate[sdc])+(last(//vfs.dev.read.rate[sdc])=0)))*1000*(last(//vfs.dev.read.rate[sdc]) > 0)".
+lab-zabbix-server  |    412:20260514:005400.557 item "LAB - Docker Agent2:vfs.dev.read.await[sdd]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.read.time.rate[sdd])/(last(//vfs.dev.read.rate[sdd])+(last(//vfs.dev.read.rate[sdd])=0)))*1000*(last(//vfs.dev.read.rate[sdd]) > 0)".
+lab-zabbix-server  |    413:20260514:005401.695 item "LAB - Docker Agent2:vfs.dev.read.await[sde]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.read.time.rate[sde])/(last(//vfs.dev.read.rate[sde])+(last(//vfs.dev.read.rate[sde])=0)))*1000*(last(//vfs.dev.read.rate[sde]) > 0)".
+lab-zabbix-server  |    415:20260514:005402.697 item "LAB - Docker Agent2:vfs.dev.read.await[sdf]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.read.time.rate[sdf])/(last(//vfs.dev.read.rate[sdf])+(last(//vfs.dev.read.rate[sdf])=0)))*1000*(last(//vfs.dev.read.rate[sdf]) > 0)".
+lab-zabbix-server  |    414:20260514:005403.698 item "LAB - Docker Agent2:vfs.dev.write.await[sda]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.write.time.rate[sda])/(last(//vfs.dev.write.rate[sda])+(last(//vfs.dev.write.rate[sda])=0)))*1000*(last(//vfs.dev.write.rate[sda]) > 0)".
+lab-zabbix-server  |    414:20260514:005404.704 item "LAB - Docker Agent2:vfs.dev.write.await[sdb]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.write.time.rate[sdb])/(last(//vfs.dev.write.rate[sdb])+(last(//vfs.dev.write.rate[sdb])=0)))*1000*(last(//vfs.dev.write.rate[sdb]) > 0)".
+lab-zabbix-server  |    413:20260514:005405.706 item "LAB - Docker Agent2:vfs.dev.write.await[sdc]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.write.time.rate[sdc])/(last(//vfs.dev.write.rate[sdc])+(last(//vfs.dev.write.rate[sdc])=0)))*1000*(last(//vfs.dev.write.rate[sdc]) > 0)".
+lab-zabbix-server  |    415:20260514:005406.709 item "LAB - Docker Agent2:vfs.dev.write.await[sdd]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.write.time.rate[sdd])/(last(//vfs.dev.write.rate[sdd])+(last(//vfs.dev.write.rate[sdd])=0)))*1000*(last(//vfs.dev.write.rate[sdd]) > 0)".
+lab-zabbix-server  |    414:20260514:005407.711 item "LAB - Docker Agent2:vfs.dev.write.await[sde]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.write.time.rate[sde])/(last(//vfs.dev.write.rate[sde])+(last(//vfs.dev.write.rate[sde])=0)))*1000*(last(//vfs.dev.write.rate[sde]) > 0)".
+lab-zabbix-server  |    413:20260514:005408.713 item "LAB - Docker Agent2:vfs.dev.write.await[sdf]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.write.time.rate[sdf])/(last(//vfs.dev.write.rate[sdf])+(last(//vfs.dev.write.rate[sdf])=0)))*1000*(last(//vfs.dev.write.rate[sdf]) > 0)".
+lab-zabbix-server  |    412:20260514:005413.308 item "LAB - Docker Agent2:system.sw.packages.get" became not supported: Failed to read sw value: cannot obtain package information.
+lab-zabbix-server  |    412:20260514:005557.677 item "LAB - Docker Agent2:vfs.dev.read.await[sda]" became supported
+lab-zabbix-server  |    412:20260514:005558.677 item "LAB - Docker Agent2:vfs.dev.read.await[sdb]" became supported
+lab-zabbix-server  |    412:20260514:005559.683 item "LAB - Docker Agent2:vfs.dev.read.await[sdc]" became supported
+lab-zabbix-server  |    412:20260514:005600.690 item "LAB - Docker Agent2:vfs.dev.read.await[sdd]" became supported
+lab-zabbix-server  |    412:20260514:005601.697 item "LAB - Docker Agent2:vfs.dev.read.await[sde]" became supported
+lab-zabbix-server  |    412:20260514:005602.705 item "LAB - Docker Agent2:vfs.dev.read.await[sdf]" became supported
+lab-zabbix-server  |    412:20260514:005603.712 item "LAB - Docker Agent2:vfs.dev.write.await[sda]" became supported
+lab-zabbix-server  |    414:20260514:005604.894 item "LAB - Docker Agent2:vfs.dev.write.await[sdb]" became supported
+lab-zabbix-server  |    415:20260514:005605.895 item "LAB - Docker Agent2:vfs.dev.write.await[sdc]" became supported
+lab-zabbix-server  |    413:20260514:005606.897 item "LAB - Docker Agent2:vfs.dev.write.await[sdd]" became supported
+lab-zabbix-server  |    415:20260514:005607.904 item "LAB - Docker Agent2:vfs.dev.write.await[sde]" became supported
+lab-zabbix-server  |    414:20260514:005608.905 item "LAB - Docker Agent2:vfs.dev.write.await[sdf]" became supported
+lab-zabbix-server  |    403:20260514:012013.333 executing housekeeper
+lab-zabbix-server  |    403:20260514:012013.403 housekeeper [deleted 21 hist/trends, 0 items/triggers, 0 events, 0 problems, 0 sessions, 0 alarms, 0 audit, 0 autoreg_host, 0 records in 0.060100 sec, idle for 1 hour(s)]
+lab-zabbix-server  |    403:20260514:022013.295 executing housekeeper
+lab-zabbix-server  |    403:20260514:022013.343 housekeeper [deleted 207 hist/trends, 0 items/triggers, 0 events, 0 problems, 0 sessions, 0 alarms, 0 audit, 0 autoreg_host, 0 records in 0.037310 sec, idle for 1 hour(s)]
