@@ -1,0 +1,8 @@
+Conectando a http://localhost:8080/api_jsonrpc.php como Admin
+OK: grupo listo: Autoaprendizaje Observabilidad (22)
+OK: template Linux encontrado: 10001
+OK: host Agent2 listo: 10683
+OK: escenario web ya existe: Python App Healthcheck
+OK: escenario web ya existe: Nginx Healthcheck
+
+Listo. Revisa Zabbix > Data collection > Hosts y Monitoring > Latest data.

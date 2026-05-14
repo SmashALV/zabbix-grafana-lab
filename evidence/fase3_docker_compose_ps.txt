@@ -1,0 +1,8 @@
+NAME                IMAGE                                             COMMAND                  SERVICE         CREATED          STATUS                    PORTS
+lab-grafana         grafana/grafana-oss:12.1.0                        "/run.sh"                grafana         10 minutes ago   Up 10 minutes             0.0.0.0:3000->3000/tcp, [::]:3000->3000/tcp
+lab-nginx           nginx:1.27-alpine                                 "/docker-entrypoint.…"   sample-nginx    10 minutes ago   Up 10 minutes             0.0.0.0:8081->80/tcp, [::]:8081->80/tcp
+lab-postgres        postgres:16-alpine                                "docker-entrypoint.s…"   postgres        10 minutes ago   Up 10 minutes (healthy)   5432/tcp
+lab-python-app      proyecto-gestion-zabbix-python-app                "python app.py"          python-app      10 minutes ago   Up 10 minutes (healthy)   0.0.0.0:5000->5000/tcp, [::]:5000->5000/tcp
+lab-zabbix-agent2   zabbix/zabbix-agent2:alpine-7.0-latest            "/usr/bin/docker-ent…"   zabbix-agent2   10 minutes ago   Up 10 minutes             0.0.0.0:10050->10050/tcp, [::]:10050->10050/tcp
+lab-zabbix-server   zabbix/zabbix-server-pgsql:alpine-7.0-latest      "/usr/bin/docker-ent…"   zabbix-server   10 minutes ago   Up 10 minutes             0.0.0.0:10051->10051/tcp, [::]:10051->10051/tcp
+lab-zabbix-web      zabbix/zabbix-web-nginx-pgsql:alpine-7.0-latest   "docker-entrypoint.sh"   zabbix-web      10 minutes ago   Up 10 minutes (healthy)   0.0.0.0:8080->8080/tcp, [::]:8080->8080/tcp
