@@ -1,0 +1,67 @@
+---
+- name: Instalar y configurar Zabbix Agent 2 en Ubuntu
+  hosts: zabbix_agents
+  become: true
+  vars:
+    zbx_hostname: "{{ inventory_hostname }}"
+    ubuntu_version: "{{ ansible_distribution_version }}"
+  tasks:
+    - name: Validar Ubuntu soportado
+      ansible.builtin.assert:
+        that:
+          - ansible_distribution == "Ubuntu"
+          - ubuntu_version in ["22.04", "24.04"]
+        fail_msg: "Este playbook fue probado para Ubuntu 22.04/24.04"
+
+    - name: Definir sufijo de repo Zabbix
+      ansible.builtin.set_fact:
+        zbx_ubuntu_repo: "{{ 'ubuntu22.04' if ubuntu_version == '22.04' else 'ubuntu24.04' }}"
+
+    - name: Instalar dependencias
+      ansible.builtin.apt:
+        name:
+          - wget
+          - gnupg
+          - ca-certificates
+        update_cache: true
+        state: present
+
+    - name: Descargar paquete release de Zabbix 7.0
+      ansible.builtin.get_url:
+        url: "https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+{{ zbx_ubuntu_repo }}_all.deb"
+        dest: /tmp/zabbix-release.deb
+        mode: '0644'
+
+    - name: Instalar repositorio Zabbix
+      ansible.builtin.apt:
+        deb: /tmp/zabbix-release.deb
+
+    - name: Instalar zabbix-agent2
+      ansible.builtin.apt:
+        name: zabbix-agent2
+        update_cache: true
+        state: present
+
+    - name: Configurar Server
+      ansible.builtin.lineinfile:
+        path: /etc/zabbix/zabbix_agent2.conf
+        regexp: '^Server='
+        line: "Server={{ zbx_server_ip }}"
+
+    - name: Configurar ServerActive
+      ansible.builtin.lineinfile:
+        path: /etc/zabbix/zabbix_agent2.conf
+        regexp: '^ServerActive='
+        line: "ServerActive={{ zbx_server_ip }}"
+
+    - name: Configurar Hostname
+      ansible.builtin.lineinfile:
+        path: /etc/zabbix/zabbix_agent2.conf
+        regexp: '^Hostname='
+        line: "Hostname={{ zbx_hostname }}"
+
+    - name: Habilitar e iniciar agente
+      ansible.builtin.systemd:
+        name: zabbix-agent2
+        enabled: true
+        state: restarted

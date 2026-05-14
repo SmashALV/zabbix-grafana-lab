@@ -1,0 +1,126 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: lab-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-zabbix}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-zabbix_pwd}
+      POSTGRES_DB: ${POSTGRES_DB:-zabbix}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - monitoring-net
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-zabbix} -d ${POSTGRES_DB:-zabbix}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  zabbix-server:
+    image: zabbix/zabbix-server-pgsql:alpine-7.0-latest
+    container_name: lab-zabbix-server
+    restart: unless-stopped
+    environment:
+      DB_SERVER_HOST: postgres
+      POSTGRES_USER: ${POSTGRES_USER:-zabbix}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-zabbix_pwd}
+      POSTGRES_DB: ${POSTGRES_DB:-zabbix}
+      ZBX_STARTPOLLERS: 10
+      ZBX_STARTHTTPPOLLERS: 5
+      ZBX_CACHESIZE: 64M
+      ZBX_HISTORYCACHESIZE: 32M
+    ports:
+      - "10051:10051"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - monitoring-net
+
+  zabbix-web:
+    image: zabbix/zabbix-web-nginx-pgsql:alpine-7.0-latest
+    container_name: lab-zabbix-web
+    restart: unless-stopped
+    environment:
+      ZBX_SERVER_HOST: zabbix-server
+      DB_SERVER_HOST: postgres
+      POSTGRES_USER: ${POSTGRES_USER:-zabbix}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-zabbix_pwd}
+      POSTGRES_DB: ${POSTGRES_DB:-zabbix}
+      PHP_TZ: ${TZ:-America/Lima}
+    ports:
+      - "8080:8080"
+    depends_on:
+      - zabbix-server
+    networks:
+      - monitoring-net
+
+  zabbix-agent2:
+    image: zabbix/zabbix-agent2:alpine-7.0-latest
+    container_name: lab-zabbix-agent2
+    restart: unless-stopped
+    privileged: true
+    environment:
+      ZBX_HOSTNAME: LAB - Docker Agent2
+      ZBX_SERVER_HOST: zabbix-server
+      ZBX_SERVER_ACTIVE: zabbix-server
+    ports:
+      - "10050:10050"
+    depends_on:
+      - zabbix-server
+    networks:
+      - monitoring-net
+
+  grafana:
+    image: grafana/grafana-oss:12.1.0
+    container_name: lab-grafana
+    restart: unless-stopped
+    environment:
+      GF_SECURITY_ADMIN_USER: ${GRAFANA_ADMIN_USER:-admin}
+      GF_SECURITY_ADMIN_PASSWORD: ${GRAFANA_ADMIN_PASSWORD:-admin123}
+      GF_USERS_ALLOW_SIGN_UP: "false"
+      GF_PLUGINS_PREINSTALL: alexanderzobnin-zabbix-app
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./grafana/provisioning:/etc/grafana/provisioning
+      - ./grafana/dashboards:/var/lib/grafana/dashboards
+    ports:
+      - "3000:3000"
+    depends_on:
+      - zabbix-web
+    networks:
+      - monitoring-net
+
+  python-app:
+    build: ./app
+    container_name: lab-python-app
+    restart: unless-stopped
+    environment:
+      APP_NAME: Servicio Academico Demo
+    ports:
+      - "5000:5000"
+    networks:
+      - monitoring-net
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:5000/health').read()"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+
+  sample-nginx:
+    image: nginx:1.27-alpine
+    container_name: lab-nginx
+    restart: unless-stopped
+    ports:
+      - "8081:80"
+    networks:
+      - monitoring-net
+
+networks:
+  monitoring-net:
+    driver: bridge
+
+volumes:
+  pgdata:
+  grafana_data:

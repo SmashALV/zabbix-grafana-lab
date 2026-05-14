@@ -1,0 +1,167 @@
+name: proyecto-gestion-zabbix
+services:
+  grafana:
+    container_name: lab-grafana
+    depends_on:
+      zabbix-web:
+        condition: service_started
+        required: true
+    environment:
+      GF_PLUGINS_PREINSTALL: alexanderzobnin-zabbix-app
+      GF_SECURITY_ADMIN_PASSWORD: admin123
+      GF_SECURITY_ADMIN_USER: admin
+      GF_USERS_ALLOW_SIGN_UP: "false"
+    image: grafana/grafana-oss:12.1.0
+    networks:
+      monitoring-net: null
+    ports:
+      - mode: ingress
+        target: 3000
+        published: "3000"
+        protocol: tcp
+    restart: unless-stopped
+    volumes:
+      - type: volume
+        source: grafana_data
+        target: /var/lib/grafana
+        volume: {}
+      - type: bind
+        source: /home/fabri/proyectos/Proyecto-gestion-zabbix/grafana/provisioning
+        target: /etc/grafana/provisioning
+        bind: {}
+      - type: bind
+        source: /home/fabri/proyectos/Proyecto-gestion-zabbix/grafana/dashboards
+        target: /var/lib/grafana/dashboards
+        bind: {}
+  postgres:
+    container_name: lab-postgres
+    environment:
+      POSTGRES_DB: zabbix
+      POSTGRES_PASSWORD: zabbix_pwd
+      POSTGRES_USER: zabbix
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - pg_isready -U zabbix -d zabbix
+      timeout: 5s
+      interval: 10s
+      retries: 10
+    image: postgres:16-alpine
+    networks:
+      monitoring-net: null
+    restart: unless-stopped
+    volumes:
+      - type: volume
+        source: pgdata
+        target: /var/lib/postgresql/data
+        volume: {}
+  python-app:
+    build:
+      context: /home/fabri/proyectos/Proyecto-gestion-zabbix/app
+      dockerfile: Dockerfile
+    container_name: lab-python-app
+    environment:
+      APP_NAME: Servicio Academico Demo
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - import urllib.request; urllib.request.urlopen('http://localhost:5000/health').read()
+      timeout: 5s
+      interval: 15s
+      retries: 5
+    networks:
+      monitoring-net: null
+    ports:
+      - mode: ingress
+        target: 5000
+        published: "5000"
+        protocol: tcp
+    restart: unless-stopped
+  sample-nginx:
+    container_name: lab-nginx
+    image: nginx:1.27-alpine
+    networks:
+      monitoring-net: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8081"
+        protocol: tcp
+    restart: unless-stopped
+  zabbix-agent2:
+    container_name: lab-zabbix-agent2
+    depends_on:
+      zabbix-server:
+        condition: service_started
+        required: true
+    environment:
+      ZBX_HOSTNAME: LAB - Docker Agent2
+      ZBX_SERVER_ACTIVE: zabbix-server
+      ZBX_SERVER_HOST: zabbix-server
+    image: zabbix/zabbix-agent2:alpine-7.0-latest
+    networks:
+      monitoring-net: null
+    ports:
+      - mode: ingress
+        target: 10050
+        published: "10050"
+        protocol: tcp
+    privileged: true
+    restart: unless-stopped
+  zabbix-server:
+    container_name: lab-zabbix-server
+    depends_on:
+      postgres:
+        condition: service_healthy
+        required: true
+    environment:
+      DB_SERVER_HOST: postgres
+      POSTGRES_DB: zabbix
+      POSTGRES_PASSWORD: zabbix_pwd
+      POSTGRES_USER: zabbix
+      ZBX_CACHESIZE: 64M
+      ZBX_HISTORYCACHESIZE: 32M
+      ZBX_STARTHTTPPOLLERS: "5"
+      ZBX_STARTPOLLERS: "10"
+    image: zabbix/zabbix-server-pgsql:alpine-7.0-latest
+    networks:
+      monitoring-net: null
+    ports:
+      - mode: ingress
+        target: 10051
+        published: "10051"
+        protocol: tcp
+    restart: unless-stopped
+  zabbix-web:
+    container_name: lab-zabbix-web
+    depends_on:
+      zabbix-server:
+        condition: service_started
+        required: true
+    environment:
+      DB_SERVER_HOST: postgres
+      PHP_TZ: America/Lima
+      POSTGRES_DB: zabbix
+      POSTGRES_PASSWORD: zabbix_pwd
+      POSTGRES_USER: zabbix
+      ZBX_SERVER_HOST: zabbix-server
+    image: zabbix/zabbix-web-nginx-pgsql:alpine-7.0-latest
+    networks:
+      monitoring-net: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8080"
+        protocol: tcp
+    restart: unless-stopped
+networks:
+  monitoring-net:
+    name: proyecto-gestion-zabbix_monitoring-net
+    driver: bridge
+volumes:
+  grafana_data:
+    name: proyecto-gestion-zabbix_grafana_data
+  pgdata:
+    name: proyecto-gestion-zabbix_pgdata

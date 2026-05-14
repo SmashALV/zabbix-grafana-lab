@@ -1,0 +1,705 @@
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:48:58] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:49:13] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:49:28] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:49:43] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:49:58] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:50:13] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:50:28] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:50:43] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:50:59] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:51:14] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:51:29] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:51:44] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:51:59] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:52:14] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:52:29] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:52:44] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:53:00] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:53:15] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:53:30] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:53:45] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:54:00] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:54:15] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:54:30] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:54:45] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:55:00] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:55:15] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:55:31] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:55:46] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:56:01] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:56:16] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:56:31] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:56:46] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:57:01] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:57:16] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:57:32] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:57:47] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:58:02] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:58:17] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:58:32] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:58:47] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:59:02] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:59:17] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:59:32] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [13/May/2026 23:59:48] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:00:03] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:00:18] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:00:33] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:00:48] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:01:03] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:01:18] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:01:33] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:01:48] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:02:04] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:02:19] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:02:34] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:02:49] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:03:04] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:03:19] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:03:34] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:03:49] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:04:05] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:04:20] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:04:35] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:04:50] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:05:05] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:05:20] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:05:35] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:05:50] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:06:06] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:06:21] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:06:36] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:06:51] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:07:06] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:07:21] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:07:36] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:07:52] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:08:07] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:08:22] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:08:37] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:08:52] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:09:07] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:09:22] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:09:37] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:09:53] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:10:08] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:10:23] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:10:38] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:10:53] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:11:08] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:11:23] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:11:38] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:11:54] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:12:09] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:12:24] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:12:39] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:12:54] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:13:09] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:13:24] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:13:39] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:13:54] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:14:10] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:14:25] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:14:40] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:14:55] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:15:10] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:15:25] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:15:40] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:15:56] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:16:11] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:16:26] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:16:41] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:16:56] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 172.18.0.1 - - [14/May/2026 00:17:04] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:17:11] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:17:26] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:17:42] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:17:57] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:18:12] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:18:27] "GET /health HTTP/1.1" 200 -
+lab-python-app  | 127.0.0.1 - - [14/May/2026 00:18:42] "GET /health HTTP/1.1" 200 -
+lab-postgres    | The files belonging to this database system will be owned by user "postgres".
+lab-postgres    | This user must also own the server process.
+lab-postgres    | 
+lab-postgres    | The database cluster will be initialized with locale "en_US.utf8".
+lab-postgres    | The default database encoding has accordingly been set to "UTF8".
+lab-postgres    | The default text search configuration will be set to "english".
+lab-postgres    | 
+lab-postgres    | Data page checksums are disabled.
+lab-postgres    | 
+lab-postgres    | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+lab-postgres    | creating subdirectories ... ok
+lab-postgres    | selecting dynamic shared memory implementation ... posix
+lab-postgres    | selecting default max_connections ... 100
+lab-postgres    | selecting default shared_buffers ... 128MB
+lab-postgres    | selecting default time zone ... UTC
+lab-postgres    | creating configuration files ... ok
+lab-postgres    | running bootstrap script ... ok
+lab-postgres    | sh: locale: not found
+lab-postgres    | 2026-05-13 22:57:04.457 UTC [35] WARNING:  no usable system locales were found
+lab-postgres    | performing post-bootstrap initialization ... ok
+lab-postgres    | syncing data to disk ... ok
+lab-postgres    | 
+lab-postgres    | 
+lab-postgres    | Success. You can now start the database server using:
+lab-postgres    | 
+lab-postgres    |     pg_ctl -D /var/lib/postgresql/data -l logfile start
+lab-postgres    | 
+lab-postgres    | initdb: warning: enabling "trust" authentication for local connections
+lab-postgres    | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
+lab-postgres    | waiting for server to start....2026-05-13 22:57:05.201 UTC [41] LOG:  starting PostgreSQL 16.13 on x86_64-pc-linux-musl, compiled by gcc (Alpine 15.2.0) 15.2.0, 64-bit
+lab-postgres    | 2026-05-13 22:57:05.205 UTC [41] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+lab-postgres    | 2026-05-13 22:57:05.216 UTC [44] LOG:  database system was shut down at 2026-05-13 22:57:04 UTC
+lab-postgres    | 2026-05-13 22:57:05.223 UTC [41] LOG:  database system is ready to accept connections
+lab-postgres    |  done
+lab-postgres    | server started
+lab-postgres    | CREATE DATABASE
+lab-postgres    | 
+lab-postgres    | 
+lab-postgres    | /usr/local/bin/docker-entrypoint.sh: ignoring /docker-entrypoint-initdb.d/*
+lab-postgres    | 
+lab-postgres    | waiting for server to shut down...2026-05-13 22:57:05.357 UTC [41] LOG:  received fast shutdown request
+lab-postgres    | .2026-05-13 22:57:05.361 UTC [41] LOG:  aborting any active transactions
+lab-postgres    | 2026-05-13 22:57:05.363 UTC [41] LOG:  background worker "logical replication launcher" (PID 47) exited with exit code 1
+lab-postgres    | 2026-05-13 22:57:05.364 UTC [42] LOG:  shutting down
+lab-postgres    | 2026-05-13 22:57:05.367 UTC [42] LOG:  checkpoint starting: shutdown immediate
+lab-postgres    | 2026-05-13 22:57:05.478 UTC [42] LOG:  checkpoint complete: wrote 926 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.024 s, sync=0.078 s, total=0.115 s; sync files=301, longest=0.010 s, average=0.001 s; distance=4272 kB, estimate=4272 kB; lsn=0/191E928, redo lsn=0/191E928
+lab-postgres    | 2026-05-13 22:57:05.487 UTC [41] LOG:  database system is shut down
+lab-postgres    |  done
+lab-postgres    | server stopped
+lab-postgres    | 
+lab-postgres    | PostgreSQL init process complete; ready for start up.
+lab-postgres    | 
+lab-postgres    | 2026-05-13 22:57:05.583 UTC [1] LOG:  starting PostgreSQL 16.13 on x86_64-pc-linux-musl, compiled by gcc (Alpine 15.2.0) 15.2.0, 64-bit
+lab-postgres    | 2026-05-13 22:57:05.583 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+lab-postgres    | 2026-05-13 22:57:05.583 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+lab-postgres    | 2026-05-13 22:57:05.591 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+lab-postgres    | 2026-05-13 22:57:05.598 UTC [57] LOG:  database system was shut down at 2026-05-13 22:57:05 UTC
+lab-postgres    | 2026-05-13 22:57:05.605 UTC [1] LOG:  database system is ready to accept connections
+lab-postgres    | 2026-05-13 23:02:05.037 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-13 23:06:35.186 UTC [55] LOG:  checkpoint complete: wrote 7787 buffers (47.5%); 0 WAL file(s) added, 0 removed, 7 recycled; write=269.973 s, sync=0.146 s, total=270.149 s; sync files=1049, longest=0.003 s, average=0.001 s; distance=121518 kB, estimate=121518 kB; lsn=0/9002450, redo lsn=0/8FCA128
+lab-postgres    | 2026-05-13 23:07:05.215 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-13 23:07:11.352 UTC [55] LOG:  checkpoint complete: wrote 62 buffers (0.4%); 0 WAL file(s) added, 0 removed, 1 recycled; write=6.115 s, sync=0.009 s, total=6.138 s; sync files=29, longest=0.003 s, average=0.001 s; distance=237 kB, estimate=109389 kB; lsn=0/9008710, redo lsn=0/90058D8
+lab-postgres    | 2026-05-13 23:12:05.417 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-13 23:12:08.273 UTC [55] LOG:  checkpoint complete: wrote 29 buffers (0.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=2.817 s, sync=0.011 s, total=2.856 s; sync files=19, longest=0.005 s, average=0.001 s; distance=200 kB, estimate=98471 kB; lsn=0/9037CA8, redo lsn=0/9037A30
+lab-postgres    | 2026-05-13 23:17:05.277 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-13 23:17:09.007 UTC [55] LOG:  checkpoint complete: wrote 38 buffers (0.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=3.710 s, sync=0.009 s, total=3.731 s; sync files=21, longest=0.003 s, average=0.001 s; distance=251 kB, estimate=88649 kB; lsn=0/9076A48, redo lsn=0/9076A10
+lab-postgres    | 2026-05-13 23:22:05.096 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-13 23:22:10.467 UTC [55] LOG:  checkpoint complete: wrote 54 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=5.314 s, sync=0.044 s, total=5.372 s; sync files=24, longest=0.028 s, average=0.002 s; distance=315 kB, estimate=79815 kB; lsn=0/90C8518, redo lsn=0/90C58E8
+lab-postgres    | 2026-05-13 23:27:05.535 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-13 23:27:09.062 UTC [55] LOG:  checkpoint complete: wrote 36 buffers (0.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=3.509 s, sync=0.007 s, total=3.528 s; sync files=19, longest=0.003 s, average=0.001 s; distance=227 kB, estimate=71856 kB; lsn=0/91015C8, redo lsn=0/90FE7E0
+lab-postgres    | 2026-05-13 23:32:05.128 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-13 23:32:09.764 UTC [55] LOG:  checkpoint complete: wrote 48 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=4.614 s, sync=0.012 s, total=4.637 s; sync files=24, longest=0.004 s, average=0.001 s; distance=290 kB, estimate=64700 kB; lsn=0/9149CD8, redo lsn=0/91470C0
+lab-postgres    | 2026-05-13 23:37:05.852 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-13 23:37:09.381 UTC [55] LOG:  checkpoint complete: wrote 36 buffers (0.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=3.510 s, sync=0.008 s, total=3.529 s; sync files=17, longest=0.003 s, average=0.001 s; distance=250 kB, estimate=58255 kB; lsn=0/9188620, redo lsn=0/9185A28
+lab-postgres    | 2026-05-13 23:42:05.469 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-13 23:42:10.504 UTC [55] LOG:  checkpoint complete: wrote 51 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=5.013 s, sync=0.010 s, total=5.035 s; sync files=21, longest=0.003 s, average=0.001 s; distance=325 kB, estimate=52462 kB; lsn=0/91D9C60, redo lsn=0/91D6E78
+lab-postgres    | 2026-05-13 23:47:05.588 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-13 23:47:10.021 UTC [55] LOG:  checkpoint complete: wrote 45 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=4.411 s, sync=0.010 s, total=4.433 s; sync files=17, longest=0.003 s, average=0.001 s; distance=277 kB, estimate=47243 kB; lsn=0/921F320, redo lsn=0/921C538
+lab-postgres    | 2026-05-13 23:52:05.110 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-13 23:52:11.354 UTC [55] LOG:  checkpoint complete: wrote 63 buffers (0.4%); 0 WAL file(s) added, 0 removed, 0 recycled; write=6.219 s, sync=0.010 s, total=6.244 s; sync files=21, longest=0.004 s, average=0.001 s; distance=319 kB, estimate=42551 kB; lsn=0/926EDD8, redo lsn=0/926C1F8
+lab-postgres    | 2026-05-13 23:57:05.442 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-13 23:57:10.778 UTC [55] LOG:  checkpoint complete: wrote 54 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=5.313 s, sync=0.010 s, total=5.336 s; sync files=19, longest=0.005 s, average=0.001 s; distance=334 kB, estimate=38329 kB; lsn=0/92C2768, redo lsn=0/92BFB70
+lab-postgres    | 2026-05-14 00:02:05.842 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-14 00:02:12.485 UTC [55] LOG:  checkpoint complete: wrote 68 buffers (0.4%); 0 WAL file(s) added, 0 removed, 0 recycled; write=6.618 s, sync=0.008 s, total=6.643 s; sync files=23, longest=0.004 s, average=0.001 s; distance=301 kB, estimate=34526 kB; lsn=0/930E0A8, redo lsn=0/930B2A8
+lab-postgres    | 2026-05-14 00:07:05.574 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-14 00:07:10.416 UTC [55] LOG:  checkpoint complete: wrote 49 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=4.815 s, sync=0.012 s, total=4.842 s; sync files=18, longest=0.003 s, average=0.001 s; distance=304 kB, estimate=31104 kB; lsn=0/935A490, redo lsn=0/9357658
+lab-postgres    | 2026-05-14 00:12:05.431 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-14 00:12:14.784 UTC [55] LOG:  checkpoint complete: wrote 94 buffers (0.6%); 0 WAL file(s) added, 0 removed, 0 recycled; write=9.325 s, sync=0.014 s, total=9.353 s; sync files=43, longest=0.004 s, average=0.001 s; distance=379 kB, estimate=28032 kB; lsn=0/93B9580, redo lsn=0/93B6558
+lab-postgres    | 2026-05-14 00:17:05.841 UTC [55] LOG:  checkpoint starting: time
+lab-postgres    | 2026-05-14 00:17:40.673 UTC [55] LOG:  checkpoint complete: wrote 349 buffers (2.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=34.784 s, sync=0.034 s, total=34.833 s; sync files=160, longest=0.004 s, average=0.001 s; distance=1778 kB, estimate=25406 kB; lsn=0/959E668, redo lsn=0/9572F58
+lab-zabbix-server  |    414:20260513:225755.480 item "Zabbix server:zabbix[vmware,buffer,pused]" became not supported: No "vmware collector" processes started.
+lab-zabbix-server  |    411:20260513:225758.475 item "Zabbix server:zabbix[process,report writer,avg,busy]" became not supported: No "report writer" processes started.
+lab-zabbix-server  |    411:20260513:225759.478 item "Zabbix server:zabbix[process,report manager,avg,busy]" became not supported: No "report manager" processes started.
+lab-zabbix-server  |    447:20260513:225803.438 Zabbix agent item "system.uptime" on host "Zabbix server" failed: another network error, wait for 15 seconds
+lab-zabbix-server  |    433:20260513:225818.002 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    447:20260513:225818.437 Zabbix agent item "system.cpu.intr" on host "Zabbix server" failed: another network error, wait for 15 seconds
+lab-zabbix-server  |    411:20260513:225828.518 item "Zabbix server:zabbix[connector_queue]" became not supported: connector is not initialized: please check "StartConnectors" configuration parameter
+lab-zabbix-server  |    411:20260513:225829.523 item "Zabbix server:zabbix[process,connector manager,avg,busy]" became not supported: No "connector manager" processes started.
+lab-zabbix-server  |    411:20260513:225830.528 item "Zabbix server:zabbix[process,connector worker,avg,busy]" became not supported: No "connector worker" processes started.
+lab-zabbix-server  |    447:20260513:225833.436 temporarily disabling Zabbix agent checks on host "Zabbix server": interface unavailable
+lab-zabbix-server  |    432:20260513:225918.997 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:230018.995 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:230118.991 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:230218.989 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:230318.987 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260513:230418.983 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260513:230518.982 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    431:20260513:230618.977 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:230718.975 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:230818.973 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:230918.970 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    431:20260513:231018.967 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:231118.965 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260513:231218.962 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:231318.958 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260513:231418.957 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:231518.954 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260513:231618.951 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260513:231718.949 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260513:231818.947 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:231918.944 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260513:232018.942 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:232118.939 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260513:232218.937 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260513:232318.934 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:232418.933 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    431:20260513:232518.929 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260513:232618.927 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260513:232718.924 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    402:20260513:232740.479 executing housekeeper
+lab-zabbix-server  |    402:20260513:232740.519 housekeeper [deleted 0 hist/trends, 0 items/triggers, 0 events, 0 problems, 0 sessions, 0 alarms, 0 audit, 0 autoreg_host, 0 records in 0.030236 sec, idle for 1 hour(s)]
+lab-zabbix-server  |    430:20260513:232818.921 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:232918.919 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:233018.917 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260513:233118.914 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260513:233218.912 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:233318.909 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:233418.907 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    431:20260513:233518.904 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260513:233618.902 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:233718.900 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260513:233818.897 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:233918.896 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    431:20260513:234018.893 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260513:234118.890 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:234218.889 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260513:234318.886 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:234418.883 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260513:234518.882 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:234618.878 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:234718.877 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260513:234818.874 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:234918.872 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    431:20260513:235018.869 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260513:235118.867 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    431:20260513:235218.864 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:235318.863 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:235418.860 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:235518.858 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260513:235618.856 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260513:235718.855 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260513:235818.852 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260513:235918.849 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260514:000018.848 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260514:000118.845 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    431:20260514:000218.843 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    431:20260514:000318.841 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260514:000418.839 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260514:000518.838 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260514:000618.835 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    431:20260514:000718.833 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260514:000818.831 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    431:20260514:000918.829 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260514:001018.827 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    432:20260514:001118.824 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    433:20260514:001218.823 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    434:20260514:001318.821 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    447:20260514:001333.262 enabling Zabbix agent checks on host "Zabbix server": interface became available
+lab-zabbix-server  |    447:20260514:001336.298 Zabbix agent item "system.cpu.util[,guest_nice]" on host "Zabbix server" failed: first network error, wait for 15 seconds
+lab-zabbix-server  |    411:20260514:001336.334 item "Zabbix server:system.sw.packages.get" became not supported: Failed to read sw value: cannot obtain package information.
+lab-zabbix-server  |    447:20260514:001351.256 resuming Zabbix agent checks on host "Zabbix server": connection restored
+lab-zabbix-server  |    411:20260514:001411.267 item "Zabbix server:vfs.dev.read.await[sda]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.read.time.rate[sda])/(last(//vfs.dev.read.rate[sda])+(last(//vfs.dev.read.rate[sda])=0)))*1000*(last(//vfs.dev.read.rate[sda]) > 0)".
+lab-zabbix-server  |    411:20260514:001412.271 item "Zabbix server:vfs.dev.read.await[sdb]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.read.time.rate[sdb])/(last(//vfs.dev.read.rate[sdb])+(last(//vfs.dev.read.rate[sdb])=0)))*1000*(last(//vfs.dev.read.rate[sdb]) > 0)".
+lab-zabbix-server  |    411:20260514:001413.277 item "Zabbix server:vfs.dev.read.await[sdc]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.read.time.rate[sdc])/(last(//vfs.dev.read.rate[sdc])+(last(//vfs.dev.read.rate[sdc])=0)))*1000*(last(//vfs.dev.read.rate[sdc]) > 0)".
+lab-zabbix-server  |    411:20260514:001414.287 item "Zabbix server:vfs.dev.read.await[sdd]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.read.time.rate[sdd])/(last(//vfs.dev.read.rate[sdd])+(last(//vfs.dev.read.rate[sdd])=0)))*1000*(last(//vfs.dev.read.rate[sdd]) > 0)".
+lab-zabbix-server  |    413:20260514:001415.290 item "Zabbix server:vfs.dev.read.await[sde]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.read.time.rate[sde])/(last(//vfs.dev.read.rate[sde])+(last(//vfs.dev.read.rate[sde])=0)))*1000*(last(//vfs.dev.read.rate[sde]) > 0)".
+lab-zabbix-server  |    411:20260514:001416.257 item "Zabbix server:vfs.dev.read.await[sdf]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.read.time.rate[sdf])/(last(//vfs.dev.read.rate[sdf])+(last(//vfs.dev.read.rate[sdf])=0)))*1000*(last(//vfs.dev.read.rate[sdf]) > 0)".
+lab-zabbix-server  |    411:20260514:001416.782 item "Zabbix server:vfs.dev.write.await[sda]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.write.time.rate[sda])/(last(//vfs.dev.write.rate[sda])+(last(//vfs.dev.write.rate[sda])=0)))*1000*(last(//vfs.dev.write.rate[sda]) > 0)".
+lab-zabbix-server  |    411:20260514:001417.785 item "Zabbix server:vfs.dev.write.await[sdb]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.write.time.rate[sdb])/(last(//vfs.dev.write.rate[sdb])+(last(//vfs.dev.write.rate[sdb])=0)))*1000*(last(//vfs.dev.write.rate[sdb]) > 0)".
+lab-zabbix-server  |    411:20260514:001418.790 item "Zabbix server:vfs.dev.write.await[sdc]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.write.time.rate[sdc])/(last(//vfs.dev.write.rate[sdc])+(last(//vfs.dev.write.rate[sdc])=0)))*1000*(last(//vfs.dev.write.rate[sdc]) > 0)".
+lab-zabbix-server  |    432:20260514:001418.820 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    411:20260514:001419.794 item "Zabbix server:vfs.dev.write.await[sdd]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.write.time.rate[sdd])/(last(//vfs.dev.write.rate[sdd])+(last(//vfs.dev.write.rate[sdd])=0)))*1000*(last(//vfs.dev.write.rate[sdd]) > 0)".
+lab-zabbix-server  |    411:20260514:001420.800 item "Zabbix server:vfs.dev.write.await[sde]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.write.time.rate[sde])/(last(//vfs.dev.write.rate[sde])+(last(//vfs.dev.write.rate[sde])=0)))*1000*(last(//vfs.dev.write.rate[sde]) > 0)".
+lab-zabbix-server  |    411:20260514:001422.258 item "Zabbix server:vfs.dev.write.await[sdf]" became not supported: Cannot evaluate function: not enough data at "last(//vfs.dev.write.time.rate[sdf])/(last(//vfs.dev.write.rate[sdf])+(last(//vfs.dev.write.rate[sdf])=0)))*1000*(last(//vfs.dev.write.rate[sdf]) > 0)".
+lab-zabbix-server  |    411:20260514:001514.276 item "Zabbix server:vfs.dev.read.await[sdd]" became supported
+lab-zabbix-server  |    411:20260514:001515.284 item "Zabbix server:vfs.dev.read.await[sde]" became supported
+lab-zabbix-server  |    411:20260514:001516.257 item "Zabbix server:vfs.dev.read.await[sdf]" became supported
+lab-zabbix-server  |    432:20260514:001518.817 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    411:20260514:001519.864 item "Zabbix server:vfs.dev.write.await[sdd]" became supported
+lab-zabbix-server  |    411:20260514:001520.870 item "Zabbix server:vfs.dev.write.await[sde]" became supported
+lab-zabbix-server  |    411:20260514:001522.255 item "Zabbix server:vfs.dev.write.await[sdf]" became supported
+lab-zabbix-server  |    411:20260514:001611.265 item "Zabbix server:vfs.dev.read.await[sda]" became supported
+lab-zabbix-server  |    411:20260514:001612.273 item "Zabbix server:vfs.dev.read.await[sdb]" became supported
+lab-zabbix-server  |    411:20260514:001613.279 item "Zabbix server:vfs.dev.read.await[sdc]" became supported
+lab-zabbix-server  |    411:20260514:001616.935 item "Zabbix server:vfs.dev.write.await[sda]" became supported
+lab-zabbix-server  |    411:20260514:001617.942 item "Zabbix server:vfs.dev.write.await[sdb]" became supported
+lab-zabbix-server  |    430:20260514:001618.814 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    411:20260514:001618.950 item "Zabbix server:vfs.dev.write.await[sdc]" became supported
+lab-zabbix-server  |    430:20260514:001718.813 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-server  |    430:20260514:001818.810 cannot send list of active checks to "172.18.0.6": host [LAB - Docker Agent2] not found
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Preparing Zabbix agent 2
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Using 'zabbix-server' servers for passive checks
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'Server': 'zabbix-server'... updated
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Using 'zabbix-server' servers for active checks
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'ServerActive': 'zabbix-server'... updated
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'PidFile': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'LogType': 'console'... added
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'LogFile': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'LogFileSize': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'DebugLevel': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'SourceIP': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'ListenPort': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'ListenIP': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'HeartbeatFrequency': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'ForceActiveChecksOnStart': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'EnablePersistentBuffer': '0'... added
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'PersistentBufferFile': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'PersistentBufferPeriod': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'StatusPort': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'HostInterface': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'HostInterfaceItem': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'Hostname': 'LAB - Docker Agent2'... updated
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'HostnameItem': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'HostMetadata': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'HostMetadataItem': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'RefreshActiveChecks': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'BufferSend': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'BufferSize': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'Timeout': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'Include': '/etc/zabbix/zabbix_agent2.d/plugins.d/*.conf'... updated
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'Include': '/etc/zabbix/zabbix_agentd.d/*.conf'... added first occurrence
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'UserParameterDir': '/var/lib/zabbix/user_scripts'... added
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'UnsafeUserParameters': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'TLSConnect': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'TLSAccept': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'TLSCAFile': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'TLSCRLFile': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'TLSServerCertIssuer': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'TLSServerCertSubject': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'TLSCertFile': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'TLSKeyFile': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'TLSPSKIdentity': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.conf parameter 'TLSPSKFile': ''... removed
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Preparing Zabbix agent 2 plugin configuration files
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.d/plugins.d/mongodb.conf parameter 'Plugins.MongoDB.System.Path': '/usr/sbin/zabbix-agent2-plugin/mongodb'... added
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.d/plugins.d/postgresql.conf parameter 'Plugins.PostgreSQL.System.Path': '/usr/sbin/zabbix-agent2-plugin/postgresql'... added
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.d/plugins.d/mssql.conf parameter 'Plugins.MSSQL.System.Path': '/usr/sbin/zabbix-agent2-plugin/mssql'... added
+lab-zabbix-agent2  | 2026-05-13T22:57:15Z [info]: ** Updating /etc/zabbix/zabbix_agent2.d/plugins.d/ember.conf parameter 'Plugins.EmberPlus.System.Path': '/usr/sbin/zabbix-agent2-plugin/ember-plus'... added
+lab-zabbix-agent2  | 2026/05/13 22:57:15.761196 Starting Zabbix Agent 2 (7.0.26)
+lab-zabbix-agent2  | 2026/05/13 22:57:15.763330 OpenSSL library (OpenSSL 3.5.6 7 Apr 2026) initialized
+lab-zabbix-agent2  | 2026/05/13 22:57:15.781980 using configuration file: /etc/zabbix/zabbix_agent2.conf
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782213 using plugin 'Agent' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782246 using plugin 'Ceph' (built-in) providing following interfaces: exporter, runner, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782264 using plugin 'Cpu' (built-in) providing following interfaces: exporter, collector, runner, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782301 using plugin 'DNS' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782312 using plugin 'Docker' (built-in) providing following interfaces: exporter, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782318 using plugin 'EmberPlus' (/usr/sbin/zabbix-agent2-plugin/ember-plus) providing following interfaces: exporter, runner, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782325 using plugin 'File' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782331 using plugin 'Hw' (built-in) providing following interfaces: exporter, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782335 using plugin 'Kernel' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782339 using plugin 'Log' (built-in) providing following interfaces: exporter, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782343 using plugin 'MQTT' (built-in) providing following interfaces: watcher, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782346 using plugin 'MSSQL' (/usr/sbin/zabbix-agent2-plugin/mssql) providing following interfaces: exporter, runner, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782362 using plugin 'Memcached' (built-in) providing following interfaces: exporter, runner, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782387 using plugin 'Memory' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782393 using plugin 'Modbus' (built-in) providing following interfaces: exporter, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782397 using plugin 'MongoDB' (/usr/sbin/zabbix-agent2-plugin/mongodb) providing following interfaces: exporter, runner, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782402 using plugin 'Mysql' (built-in) providing following interfaces: exporter, runner, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782408 using plugin 'NetIf' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782412 using plugin 'Oracle' (built-in) providing following interfaces: exporter, runner, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782431 using plugin 'PostgreSQL' (/usr/sbin/zabbix-agent2-plugin/postgresql) providing following interfaces: exporter, runner, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782484 using plugin 'Proc' (built-in) providing following interfaces: exporter, collector, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782492 using plugin 'ProcExporter' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782497 using plugin 'Redis' (built-in) providing following interfaces: exporter, runner, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782502 using plugin 'Smart' (built-in) providing following interfaces: exporter, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782506 using plugin 'Sw' (built-in) providing following interfaces: exporter, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782510 using plugin 'Swap' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782515 using plugin 'SystemRun' (built-in) providing following interfaces: exporter, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782519 using plugin 'Systemd' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782524 using plugin 'TCP' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782528 using plugin 'UDP' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782532 using plugin 'Uname' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782536 using plugin 'Uptime' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782539 using plugin 'Users' (built-in) providing following interfaces: exporter, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782543 using plugin 'VFSDev' (built-in) providing following interfaces: exporter, collector, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782546 using plugin 'VFSDir' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782550 using plugin 'VfsFs' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782555 using plugin 'WebCertificate' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782564 using plugin 'WebPage' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782567 using plugin 'ZabbixAsync' (built-in) providing following interfaces: exporter, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782572 using plugin 'ZabbixStats' (built-in) providing following interfaces: exporter, configurator, maximum capacity: 1000, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782576 using plugin 'ZabbixSync' (built-in) providing following interfaces: exporter, maximum capacity: 1, active checks on start enabled: false
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782882 Plugin communication protocol version is 6.4.0
+lab-zabbix-agent2  | 2026/05/13 22:57:15.782900 Zabbix Agent2 hostname: [LAB - Docker Agent2]
+lab-zabbix-agent2  | Press Ctrl+C to exit.
+lab-zabbix-agent2  | 2026/05/13 22:57:17.004536 [101] cannot connect to [zabbix-server:10051]: dial tcp :0->172.18.0.5:10051: connect: connection refused
+lab-zabbix-agent2  | 2026/05/13 22:57:17.004585 [101] active check configuration update from host [LAB - Docker Agent2] started to fail
+lab-zabbix-agent2  | 2026/05/13 22:57:17.005300 [101] cannot connect to [zabbix-server:10051]: dial tcp :0->172.18.0.5:10051: connect: connection refused
+lab-zabbix-agent2  | 2026/05/13 22:57:17.005327 [101] sending of heartbeat message for [LAB - Docker Agent2] started to fail
+lab-zabbix-agent2  | 2026/05/13 22:58:18.002544 [101] active check configuration update from [zabbix-server:10051] is working again
+lab-zabbix-agent2  | 2026/05/13 22:58:18.002671 [101] no active checks on server [zabbix-server:10051]: host [LAB - Docker Agent2] not found
+lab-zabbix-agent2  | 2026/05/13 22:58:18.002680 [101] active checks on server started to fail
+lab-zabbix-agent2  | 2026/05/13 22:58:18.004508 [101] sending of heartbeat message to [zabbix-server:10051] is working again
+lab-nginx          | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+lab-nginx          | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+lab-nginx          | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+lab-nginx          | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+lab-nginx          | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
+lab-nginx          | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+lab-nginx          | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+lab-nginx          | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+lab-nginx          | /docker-entrypoint.sh: Configuration complete; ready for start up
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: using the "epoll" event method
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: nginx/1.27.5
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: OS: Linux 6.6.114.1-microsoft-standard-WSL2
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: start worker processes
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: start worker process 31
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: start worker process 32
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: start worker process 33
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: start worker process 34
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: start worker process 35
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: start worker process 36
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: start worker process 37
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: start worker process 38
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: start worker process 39
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: start worker process 40
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: start worker process 41
+lab-nginx          | 2026/05/13 22:57:04 [notice] 1#1: start worker process 42
+lab-nginx          | 172.18.0.1 - - [13/May/2026:23:00:54 +0000] "HEAD / HTTP/1.1" 200 0 "-" "curl/7.81.0" "-"
+lab-nginx          | 172.18.0.1 - - [13/May/2026:23:02:05 +0000] "HEAD / HTTP/1.1" 200 0 "-" "curl/7.81.0" "-"
+lab-nginx          | 172.18.0.1 - - [13/May/2026:23:02:18 +0000] "GET / HTTP/1.1" 200 615 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-nginx          | 172.18.0.1 - - [13/May/2026:23:02:18 +0000] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-nginx          | 2026/05/13 23:02:18 [error] 33#33: *3 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8081", referrer: "http://localhost:8081/"
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.341833959Z level=info msg="Migration successfully executed" id="Add column previous_resource_version in resource_history" duration=5.161778ms
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.350765166Z level=info msg="Executing migration" id="Add column previous_resource_version in resource"
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.356304598Z level=info msg="Migration successfully executed" id="Add column previous_resource_version in resource" duration=5.542192ms
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.366580942Z level=info msg="Executing migration" id="Add index to resource_history for polling"
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.367383553Z level=info msg="Migration successfully executed" id="Add index to resource_history for polling" duration=802.731µs
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.398987075Z level=info msg="Executing migration" id="Add index to resource for loading"
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.400588647Z level=info msg="Migration successfully executed" id="Add index to resource for loading" duration=1.602832ms
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.40893364Z level=info msg="Executing migration" id="Add column folder in resource_history"
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.414863972Z level=info msg="Migration successfully executed" id="Add column folder in resource_history" duration=5.930112ms
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.420847105Z level=info msg="Executing migration" id="Add column folder in resource"
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.426387037Z level=info msg="Migration successfully executed" id="Add column folder in resource" duration=5.539412ms
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.434483237Z level=info msg="Executing migration" id="Migrate DeletionMarkers to real Resource objects"
+lab-grafana        | logger=deletion-marker-migrator t=2026-05-13T22:57:37.434523709Z level=info msg="finding any deletion markers"
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.434866972Z level=info msg="Migration successfully executed" id="Migrate DeletionMarkers to real Resource objects" duration=384.115µs
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.467266398Z level=info msg="Executing migration" id="Add index to resource_history for get trash"
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.468346329Z level=info msg="Migration successfully executed" id="Add index to resource_history for get trash" duration=1.085492ms
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.476817564Z level=info msg="Executing migration" id="Add generation to resource history"
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.48228021Z level=info msg="Migration successfully executed" id="Add generation to resource history" duration=5.461366ms
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.491242976Z level=info msg="Executing migration" id="Add generation index to resource history"
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.492194323Z level=info msg="Migration successfully executed" id="Add generation index to resource history" duration=951.547µs
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.520110168Z level=info msg="migrations completed" performed=26 skipped=0 duration=1.021601281s
+lab-grafana        | logger=resource-migrator t=2026-05-13T22:57:37.520660519Z level=info msg="Unlocking database"
+lab-grafana        | t=2026-05-13T22:57:37.52093884Z level=info caller=logger.go:214 time=2026-05-13T22:57:37.520916539Z msg="Using channel notifier" logger=sql-resource-server
+lab-grafana        | logger=plugin.store t=2026-05-13T22:57:37.527103853Z level=info msg="Loading plugins..."
+lab-grafana        | logger=plugins.registration t=2026-05-13T22:57:37.576388748Z level=error msg="Could not register plugin" pluginId=table error="plugin table is already registered"
+lab-grafana        | logger=plugins.initialization t=2026-05-13T22:57:37.576425539Z level=error msg="Could not initialize plugin" pluginId=table error="plugin table is already registered"
+lab-grafana        | logger=plugin.store t=2026-05-13T22:57:37.576500362Z level=info msg="Plugins loaded" count=53 duration=49.396989ms
+lab-grafana        | logger=query_data t=2026-05-13T22:57:37.591591665Z level=info msg="Query Service initialization"
+lab-grafana        | logger=live.push_http t=2026-05-13T22:57:37.596533126Z level=info msg="Live Push Gateway initialization"
+lab-grafana        | logger=ngalert.notifier component=alertmanager orgID=1 t=2026-05-13T22:57:37.604580757Z level=info msg="Applying new configuration to Alertmanager" configHash=d2c56faca6af2a5772ff4253222f7386
+lab-grafana        | logger=ngalert.writer t=2026-05-13T22:57:37.618554858Z level=info msg="Setting up remote write using data sources" timeout=30s default_datasource_uid=
+lab-grafana        | logger=ngalert t=2026-05-13T22:57:37.618650162Z level=info msg="Using simple database alert instance store"
+lab-grafana        | logger=ngalert.state.manager.persist t=2026-05-13T22:57:37.618662032Z level=info msg="Using sync state persister"
+lab-grafana        | logger=infra.usagestats.collector t=2026-05-13T22:57:37.6211826Z level=info msg="registering usage stat providers" usageStatsProvidersLen=2
+lab-grafana        | logger=grafanaStorageLogger t=2026-05-13T22:57:37.621583575Z level=info msg="Storage starting"
+lab-grafana        | logger=ngalert.state.manager t=2026-05-13T22:57:37.621641397Z level=info msg="Warming state cache for startup"
+lab-grafana        | logger=ngalert.multiorg.alertmanager t=2026-05-13T22:57:37.621842475Z level=info msg="Starting MultiOrg Alertmanager"
+lab-grafana        | logger=plugin.backgroundinstaller t=2026-05-13T22:57:37.622049223Z level=info msg="Installing plugin" pluginId=grafana-lokiexplore-app version=
+lab-grafana        | logger=http.server t=2026-05-13T22:57:37.626593769Z level=info msg="HTTP Server Listen" address=[::]:3000 protocol=http subUrl= socket=
+lab-grafana        | logger=ngalert.state.manager t=2026-05-13T22:57:37.657850887Z level=info msg="State cache has been initialized" states=0 duration=36.20901ms
+lab-grafana        | logger=ngalert.scheduler t=2026-05-13T22:57:37.657916399Z level=info msg="Starting scheduler" tickInterval=10s maxAttempts=3
+lab-grafana        | logger=ticker t=2026-05-13T22:57:37.657971022Z level=info msg=starting first_tick=2026-05-13T22:57:40Z
+lab-grafana        | logger=grafana-apiserver t=2026-05-13T22:57:37.763139517Z level=info msg="Adding GroupVersion dashboard.grafana.app v1beta1 to ResourceManager"
+lab-grafana        | logger=grafana-apiserver t=2026-05-13T22:57:37.763410878Z level=info msg="Adding GroupVersion dashboard.grafana.app v0alpha1 to ResourceManager"
+lab-grafana        | logger=grafana-apiserver t=2026-05-13T22:57:37.763766612Z level=info msg="Adding GroupVersion dashboard.grafana.app v2alpha1 to ResourceManager"
+lab-grafana        | logger=grafana-apiserver t=2026-05-13T22:57:37.764274041Z level=info msg="Adding GroupVersion userstorage.grafana.app v0alpha1 to ResourceManager"
+lab-grafana        | logger=grafana-apiserver t=2026-05-13T22:57:37.764697798Z level=info msg="Adding GroupVersion playlist.grafana.app v0alpha1 to ResourceManager"
+lab-grafana        | logger=grafana-apiserver t=2026-05-13T22:57:37.765564771Z level=info msg="Adding GroupVersion folder.grafana.app v1beta1 to ResourceManager"
+lab-grafana        | logger=grafana-apiserver t=2026-05-13T22:57:37.769504362Z level=info msg="Adding GroupVersion iam.grafana.app v0alpha1 to ResourceManager"
+lab-grafana        | logger=grafana-apiserver t=2026-05-13T22:57:37.770242712Z level=info msg="Adding GroupVersion features.grafana.app v0alpha1 to ResourceManager"
+lab-grafana        | logger=grafana-apiserver t=2026-05-13T22:57:37.771376466Z level=info msg="Adding GroupVersion notifications.alerting.grafana.app v0alpha1 to ResourceManager"
+lab-grafana        | logger=app-registry t=2026-05-13T22:57:37.808663915Z level=info msg="app registry initialized"
+lab-grafana        | logger=grafana.update.checker t=2026-05-13T22:57:37.932593763Z level=info msg="Update check succeeded" duration=310.958926ms
+lab-grafana        | logger=provisioning.datasources t=2026-05-13T22:57:37.937952052Z level=info msg="inserting datasource from configuration" name=Zabbix uid=PA67C5EADE9207728
+lab-grafana        | logger=plugins.update.checker t=2026-05-13T22:57:37.938521624Z level=info msg="Update check succeeded" duration=316.754874ms
+lab-grafana        | logger=provisioning.plugins t=2026-05-13T22:57:38.019053895Z level=error msg="Failed to read plugin provisioning files from directory" path=/etc/grafana/provisioning/plugins error="open /etc/grafana/provisioning/plugins: no such file or directory"
+lab-grafana        | logger=provisioning.alerting t=2026-05-13T22:57:38.019140529Z level=error msg="can't read alerting provisioning files from directory" path=/etc/grafana/provisioning/alerting error="open /etc/grafana/provisioning/alerting: no such file or directory"
+lab-grafana        | logger=provisioning.alerting t=2026-05-13T22:57:38.019149789Z level=info msg="starting to provision alerting"
+lab-grafana        | logger=provisioning.alerting t=2026-05-13T22:57:38.019158549Z level=info msg="finished to provision alerting"
+lab-grafana        | logger=provisioning.dashboard t=2026-05-13T22:57:38.020263352Z level=info msg="starting to provision dashboards"
+lab-grafana        | logger=plugin.angulardetectorsprovider.dynamic t=2026-05-13T22:57:38.602802389Z level=info msg="Patterns update finished" duration=899.423472ms
+lab-grafana        | logger=provisioning.dashboard t=2026-05-13T22:57:38.622616765Z level=info msg="finished to provision dashboards"
+lab-grafana        | logger=plugin.installer t=2026-05-13T22:57:40.259609854Z level=info msg="Installing plugin" pluginId=grafana-lokiexplore-app version=
+lab-grafana        | logger=installer.fs t=2026-05-13T22:57:40.377896208Z level=info msg="Downloaded and extracted grafana-lokiexplore-app v1.0.41 zip successfully to /var/lib/grafana/plugins/grafana-lokiexplore-app"
+lab-grafana        | logger=plugins.registration t=2026-05-13T22:57:40.407358925Z level=info msg="Plugin registered" pluginId=grafana-lokiexplore-app
+lab-grafana        | logger=plugin.backgroundinstaller t=2026-05-13T22:57:40.407420447Z level=info msg="Plugin successfully installed" pluginId=grafana-lokiexplore-app version= duration=2.785352393s
+lab-grafana        | logger=plugin.backgroundinstaller t=2026-05-13T22:57:40.407444578Z level=info msg="Installing plugin" pluginId=grafana-pyroscope-app version=
+lab-grafana        | logger=plugin.installer t=2026-05-13T22:57:41.216298663Z level=info msg="Installing plugin" pluginId=grafana-pyroscope-app version=
+lab-grafana        | logger=installer.fs t=2026-05-13T22:57:41.278796215Z level=info msg="Downloaded and extracted grafana-pyroscope-app v1.17.0 zip successfully to /var/lib/grafana/plugins/grafana-pyroscope-app"
+lab-grafana        | logger=plugins.registration t=2026-05-13T22:57:41.293268272Z level=info msg="Plugin registered" pluginId=grafana-pyroscope-app
+lab-grafana        | logger=plugin.backgroundinstaller t=2026-05-13T22:57:41.293308924Z level=info msg="Plugin successfully installed" pluginId=grafana-pyroscope-app version= duration=885.858876ms
+lab-grafana        | logger=plugin.backgroundinstaller t=2026-05-13T22:57:41.293329975Z level=info msg="Installing plugin" pluginId=grafana-exploretraces-app version=
+lab-grafana        | logger=plugin.installer t=2026-05-13T22:57:42.184758132Z level=info msg="Installing plugin" pluginId=grafana-exploretraces-app version=
+lab-grafana        | logger=installer.fs t=2026-05-13T22:57:42.244957596Z level=info msg="Downloaded and extracted grafana-exploretraces-app v1.3.3 zip successfully to /var/lib/grafana/plugins/grafana-exploretraces-app"
+lab-grafana        | logger=plugins.registration t=2026-05-13T22:57:42.262865596Z level=info msg="Plugin registered" pluginId=grafana-exploretraces-app
+lab-grafana        | logger=plugin.backgroundinstaller t=2026-05-13T22:57:42.262907588Z level=info msg="Plugin successfully installed" pluginId=grafana-exploretraces-app version= duration=969.573073ms
+lab-grafana        | logger=plugin.backgroundinstaller t=2026-05-13T22:57:42.262927318Z level=info msg="Installing plugin" pluginId=grafana-metricsdrilldown-app version=
+lab-grafana        | logger=plugin.installer t=2026-05-13T22:57:43.607841168Z level=info msg="Installing plugin" pluginId=grafana-metricsdrilldown-app version=
+lab-grafana        | logger=installer.fs t=2026-05-13T22:57:43.795922994Z level=info msg="Downloaded and extracted grafana-metricsdrilldown-app v1.0.34 zip successfully to /var/lib/grafana/plugins/grafana-metricsdrilldown-app"
+lab-grafana        | logger=plugins.registration t=2026-05-13T22:57:43.818122441Z level=info msg="Plugin registered" pluginId=grafana-metricsdrilldown-app
+lab-grafana        | logger=plugin.backgroundinstaller t=2026-05-13T22:57:43.818157092Z level=info msg="Plugin successfully installed" pluginId=grafana-metricsdrilldown-app version= duration=1.556571761s
+lab-grafana        | logger=plugin.backgroundinstaller t=2026-05-13T22:57:43.818175553Z level=info msg="Installing plugin" pluginId=alexanderzobnin-zabbix-app version=
+lab-grafana        | logger=plugin.installer t=2026-05-13T22:57:47.576400475Z level=info msg="Installing plugin" pluginId=alexanderzobnin-zabbix-app version=
+lab-grafana        | logger=installer.fs t=2026-05-13T22:57:47.765601239Z level=info msg="Downloaded and extracted alexanderzobnin-zabbix-app v6.3.2 zip successfully to /var/lib/grafana/plugins/alexanderzobnin-zabbix-app"
+lab-grafana        | logger=plugins.registration t=2026-05-13T22:57:47.814122573Z level=info msg="Plugin registered" pluginId=alexanderzobnin-zabbix-app
+lab-grafana        | logger=plugins.registration t=2026-05-13T22:57:47.826257182Z level=info msg="Plugin registered" pluginId=alexanderzobnin-zabbix-datasource
+lab-grafana        | logger=plugins.registration t=2026-05-13T22:57:47.826301464Z level=info msg="Plugin registered" pluginId=alexanderzobnin-zabbix-triggers-panel
+lab-grafana        | logger=plugin.backgroundinstaller t=2026-05-13T22:57:47.826319595Z level=info msg="Plugin successfully installed" pluginId=alexanderzobnin-zabbix-app version= duration=4.008139512s
+lab-grafana        | logger=infra.usagestats t=2026-05-13T22:59:05.62155309Z level=info msg="Usage stats are ready to report"
+lab-grafana        | logger=context userId=0 orgId=0 uname= t=2026-05-13T23:00:54.339268521Z level=info msg="Request Completed" method=HEAD path=/ status=302 remote_addr=172.18.0.1 time_ms=0 duration=154.726µs size=0 referer= handler=/ status_source=server
+lab-grafana        | logger=context userId=0 orgId=0 uname= t=2026-05-13T23:01:17.077558822Z level=info msg="Request Completed" method=HEAD path=/ status=302 remote_addr=172.18.0.1 time_ms=0 duration=77.503µs size=0 referer= handler=/ status_source=server
+lab-grafana        | logger=context userId=0 orgId=0 uname= t=2026-05-13T23:01:33.432229066Z level=info msg="Request Completed" method=GET path=/ status=302 remote_addr=172.18.0.1 time_ms=0 duration=109.384µs size=29 referer= handler=/ status_source=server
+lab-grafana        | logger=context userId=0 orgId=0 uname= t=2026-05-13T23:02:15.433952731Z level=info msg="Request Completed" method=GET path=/ status=302 remote_addr=172.18.0.1 time_ms=0 duration=196.738µs size=29 referer= handler=/ status_source=server
+lab-grafana        | logger=context userId=0 orgId=0 uname= t=2026-05-13T23:03:02.557725109Z level=info msg="Request Completed" method=GET path=/ status=302 remote_addr=172.18.0.1 time_ms=0 duration=126.186µs size=29 referer= handler=/ status_source=server
+lab-grafana        | logger=context userId=1 orgId=1 uname=admin t=2026-05-13T23:03:12.889168545Z level=info msg="Request Completed" method=GET path=/api/live/ws status=-1 remote_addr=172.18.0.1 time_ms=3 duration=3.582927ms size=0 referer= handler=/api/live/ws status_source=server
+lab-grafana        | logger=cleanup t=2026-05-13T23:07:37.61304631Z level=info msg="Completed cleanup jobs" duration=17.832521ms
+lab-grafana        | logger=sqlstore.transactions t=2026-05-13T23:07:37.619748085Z level=info msg="Database locked, sleeping then retrying" error="database is locked" retry=0
+lab-grafana        | logger=plugins.update.checker t=2026-05-13T23:07:38.176098911Z level=info msg="Update check succeeded" duration=264.817962ms
+lab-grafana        | logger=sqlstore.transactions t=2026-05-13T23:12:37.570051722Z level=info msg="Database locked, sleeping then retrying" error="database is locked" retry=0
+lab-grafana        | logger=cleanup t=2026-05-13T23:17:37.610349489Z level=info msg="Completed cleanup jobs" duration=41.784378ms
+lab-grafana        | logger=plugins.update.checker t=2026-05-13T23:17:38.154604288Z level=info msg="Update check succeeded" duration=268.678064ms
+lab-grafana        | logger=cleanup t=2026-05-13T23:27:37.571343847Z level=info msg="Completed cleanup jobs" duration=27.857766ms
+lab-grafana        | logger=plugins.update.checker t=2026-05-13T23:27:38.274091664Z level=info msg="Update check succeeded" duration=413.339733ms
+lab-grafana        | logger=infra.usagestats t=2026-05-13T23:29:05.559186169Z level=info msg="Usage stats are ready to report"
+lab-grafana        | logger=cleanup t=2026-05-13T23:37:37.556330099Z level=info msg="Completed cleanup jobs" duration=36.401184ms
+lab-grafana        | logger=plugins.update.checker t=2026-05-13T23:37:38.140474372Z level=info msg="Update check succeeded" duration=303.068243ms
+lab-grafana        | logger=cleanup t=2026-05-13T23:47:37.531278421Z level=info msg="Completed cleanup jobs" duration=34.717551ms
+lab-grafana        | logger=plugins.update.checker t=2026-05-13T23:47:38.112635004Z level=info msg="Update check succeeded" duration=299.715879ms
+lab-grafana        | logger=cleanup t=2026-05-13T23:57:37.499317889Z level=info msg="Completed cleanup jobs" duration=24.901754ms
+lab-grafana        | logger=plugins.update.checker t=2026-05-13T23:57:38.121590475Z level=info msg="Update check succeeded" duration=330.720234ms
+lab-grafana        | logger=infra.usagestats t=2026-05-13T23:59:05.490130239Z level=info msg="Usage stats are ready to report"
+lab-grafana        | logger=context userId=1 orgId=1 uname=admin t=2026-05-14T00:06:05.988525061Z level=info msg="Request Completed" method=GET path=/api/dashboards/uid/portfolio-zabbix-grafana/public-dashboards status=404 remote_addr=172.18.0.1 time_ms=2 duration=2.61997ms size=90 referer="http://localhost:3000/d/portfolio-zabbix-grafana/portafolio-zabbix-grafana?from=now-6h&orgId=1&timezone=browser&to=now" handler=/api/dashboards/uid/:dashboardUid/public-dashboards status_source=server errorReason=NotFound errorMessageID=publicdashboards.notFound error="FindByDashboardUid: Public dashboard not found by orgId: 1 and dashboardUid: portfolio-zabbix-grafana"
+lab-grafana        | logger=context userId=1 orgId=1 uname=admin t=2026-05-14T00:06:06.739996847Z level=info msg="Request Completed" method=GET path=/api/live/ws status=-1 remote_addr=172.18.0.1 time_ms=2 duration=2.104396ms size=0 referer= handler=/api/live/ws status_source=server
+lab-grafana        | logger=live t=2026-05-14T00:06:06.743089121Z level=info msg="Initialized channel handler" channel=grafana/dashboard/uid/portfolio-zabbix-grafana address=grafana/dashboard/uid/portfolio-zabbix-grafana
+lab-grafana        | logger=context userId=1 orgId=1 uname=admin t=2026-05-14T00:06:53.660870807Z level=info msg="Request Completed" method=GET path=/api/live/ws status=-1 remote_addr=172.18.0.1 time_ms=1 duration=1.847202ms size=0 referer= handler=/api/live/ws status_source=server
+lab-grafana        | logger=context userId=1 orgId=1 uname=admin t=2026-05-14T00:06:53.88830987Z level=info msg="Request Completed" method=GET path=/api/dashboards/uid/portfolio-zabbix-grafana/public-dashboards status=404 remote_addr=172.18.0.1 time_ms=1 duration=1.78611ms size=90 referer="http://localhost:3000/d/portfolio-zabbix-grafana/portafolio-zabbix-grafana?from=now-6h&orgId=1&timezone=browser&to=now" handler=/api/dashboards/uid/:dashboardUid/public-dashboards status_source=server errorReason=NotFound errorMessageID=publicdashboards.notFound error="FindByDashboardUid: Public dashboard not found by orgId: 1 and dashboardUid: portfolio-zabbix-grafana"
+lab-grafana        | logger=cleanup t=2026-05-14T00:07:37.487819294Z level=info msg="Completed cleanup jobs" duration=35.072515ms
+lab-grafana        | logger=plugins.update.checker t=2026-05-14T00:07:38.048206211Z level=info msg="Update check succeeded" duration=278.36117ms
+lab-grafana        | logger=cleanup t=2026-05-14T00:17:37.497109973Z level=info msg="Completed cleanup jobs" duration=64.982016ms
+lab-grafana        | logger=plugins.update.checker t=2026-05-14T00:17:38.094239564Z level=info msg="Update check succeeded" duration=344.743147ms
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:15:40 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?name=&evaltype=0&tags%5B0%5D%5Btag%5D=&tags%5B0%5D%5Boperator%5D=0&tags%5B0%5D%5Bvalue%5D=&show_tags=3&tag_name_format=0&tag_priority=&state=-1&filter_name=&filter_show_counter=0&filter_custom_time=0&sort=name&sortorder=ASC&show_details=0&action=latest.view&hostids%5B%5D=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:15:44 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 73 "http://localhost:8080/zabbix.php?name=&evaltype=0&tags%5B0%5D%5Btag%5D=&tags%5B0%5D%5Boperator%5D=0&tags%5B0%5D%5Bvalue%5D=&show_tags=3&tag_name_format=0&tag_priority=&state=-1&filter_name=&filter_show_counter=0&filter_custom_time=0&sort=name&sortorder=ASC&show_details=0&action=latest.view&hostids%5B%5D=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:15:45 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?name=&evaltype=0&tags%5B0%5D%5Btag%5D=&tags%5B0%5D%5Boperator%5D=0&tags%5B0%5D%5Bvalue%5D=&show_tags=3&tag_name_format=0&tag_priority=&state=-1&filter_name=&filter_show_counter=0&filter_custom_time=0&sort=name&sortorder=ASC&show_details=0&action=latest.view&hostids%5B%5D=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:15:50 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?name=&evaltype=0&tags%5B0%5D%5Btag%5D=&tags%5B0%5D%5Boperator%5D=0&tags%5B0%5D%5Bvalue%5D=&show_tags=3&tag_name_format=0&tag_priority=&state=-1&filter_name=&filter_show_counter=0&filter_custom_time=0&sort=name&sortorder=ASC&show_details=0&action=latest.view&hostids%5B%5D=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:15:55 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?name=&evaltype=0&tags%5B0%5D%5Btag%5D=&tags%5B0%5D%5Boperator%5D=0&tags%5B0%5D%5Bvalue%5D=&show_tags=3&tag_name_format=0&tag_priority=&state=-1&filter_name=&filter_show_counter=0&filter_custom_time=0&sort=name&sortorder=ASC&show_details=0&action=latest.view&hostids%5B%5D=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:15:55 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 73 "http://localhost:8080/zabbix.php?name=&evaltype=0&tags%5B0%5D%5Btag%5D=&tags%5B0%5D%5Boperator%5D=0&tags%5B0%5D%5Bvalue%5D=&show_tags=3&tag_name_format=0&tag_priority=&state=-1&filter_name=&filter_show_counter=0&filter_custom_time=0&sort=name&sortorder=ASC&show_details=0&action=latest.view&hostids%5B%5D=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:15:56 +0000] "POST /zabbix.php?action=latest.view.refresh HTTP/1.1" 200 34 "http://localhost:8080/zabbix.php?name=&evaltype=0&tags%5B0%5D%5Btag%5D=&tags%5B0%5D%5Boperator%5D=0&tags%5B0%5D%5Bvalue%5D=&show_tags=3&tag_name_format=0&tag_priority=&state=-1&filter_name=&filter_show_counter=0&filter_custom_time=0&sort=name&sortorder=ASC&show_details=0&action=latest.view&hostids%5B%5D=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:15:56 +0000] "POST /zabbix.php?action=latest.view.refresh HTTP/1.1" 200 144135 "http://localhost:8080/zabbix.php?name=&evaltype=0&tags%5B0%5D%5Btag%5D=&tags%5B0%5D%5Boperator%5D=0&tags%5B0%5D%5Bvalue%5D=&show_tags=3&tag_name_format=0&tag_priority=&state=-1&filter_name=&filter_show_counter=0&filter_custom_time=0&sort=name&sortorder=ASC&show_details=0&action=latest.view&hostids%5B%5D=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:00 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?name=&evaltype=0&tags%5B0%5D%5Btag%5D=&tags%5B0%5D%5Boperator%5D=0&tags%5B0%5D%5Bvalue%5D=&show_tags=3&tag_name_format=0&tag_priority=&state=-1&filter_name=&filter_show_counter=0&filter_custom_time=0&sort=name&sortorder=ASC&show_details=0&action=latest.view&hostids%5B%5D=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:03 +0000] "GET /zabbix.php?action=dashboard.view HTTP/1.1" 200 11086 "http://localhost:8080/zabbix.php?name=&evaltype=0&tags%5B0%5D%5Btag%5D=&tags%5B0%5D%5Boperator%5D=0&tags%5B0%5D%5Bvalue%5D=&show_tags=3&tag_name_format=0&tag_priority=&state=-1&filter_name=&filter_show_counter=0&filter_custom_time=0&sort=name&sortorder=ASC&show_details=0&action=latest.view&hostids%5B%5D=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:03 +0000] "GET /jsLoader.php?ver=7.0.26&lang=en_US&files%5B0%5D=class.dashboard.js&files%5B1%5D=class.dashboard.page.js&files%5B2%5D=class.dashboard.widget.placeholder.js&files%5B3%5D=class.form.fieldset.collapsible.js&files%5B4%5D=class.tagfilteritem.js&files%5B5%5D=class.widgets-data.js&files%5B6%5D=class.widget-base.js&files%5B7%5D=class.widget.js&files%5B8%5D=class.widget.inaccessible.js&files%5B9%5D=class.widget.iterator.js&files%5B10%5D=class.widget.misconfigured.js&files%5B11%5D=class.widget.paste-placeholder.js&files%5B12%5D=class.widget-field.checkbox-list.js&files%5B13%5D=class.widget-field.multiselect.js&files%5B14%5D=class.widget-field.time-period.js&files%5B15%5D=class.widget-select.popup.js&files%5B16%5D=d3.js&files%5B17%5D=class.calendar.js&files%5B18%5D=class.cnavtree.js&files%5B19%5D=class.coverride.js&files%5B20%5D=class.crangecontrol.js&files%5B21%5D=class.csvggraph.js&files%5B22%5D=class.svg.canvas.js&files%5B23%5D=class.svg.map.js&files%5B24%5D=colorpicker.js&files%5B25%5D=flickerfreescreen.js&files%5B26%5D=gtlc.js&files%5B27%5D=items.js&files%5B28%5D=layout.mode.js&files%5B29%5D=leaflet.js&files%5B30%5D=leaflet.markercluster.js&files%5B31%5D=class.geomaps.js&files%5B32%5D=multilineinput.js&files%5B33%5D=servercheck.js&files%5B34%5D=class.software-version-check.js HTTP/1.1" 304 0 "http://localhost:8080/zabbix.php?action=dashboard.view" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:03 +0000] "GET /jsLoader.php?lang=en_US&ver=7.0.26&showGuiMessaging=1 HTTP/1.1" 304 0 "http://localhost:8080/zabbix.php?action=dashboard.view" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:03 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:03 +0000] "POST /zabbix.php?action=widget.clock.view HTTP/1.1" 200 524 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:03 +0000] "POST /zabbix.php?action=widget.hostavail.view HTTP/1.1" 200 813 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:03 +0000] "POST /zabbix.php?action=widget.systeminfo.view HTTP/1.1" 200 1662 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:03 +0000] "POST /zabbix.php?action=widget.tophosts.view HTTP/1.1" 200 1960 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:03 +0000] "POST /zabbix.php?action=widget.svggraph.view HTTP/1.1" 200 3919 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:03 +0000] "POST /zabbix.php?action=widget.item.view HTTP/1.1" 200 858 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:03 +0000] "POST /zabbix.php?action=widget.problemsbysv.view HTTP/1.1" 200 845 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:03 +0000] "POST /zabbix.php?action=widget.geomap.view HTTP/1.1" 200 1073 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:03 +0000] "POST /zabbix.php?action=widget.problems.view HTTP/1.1" 200 550 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:06 +0000] "POST /zabbix.php?action=menu.popup&type=host HTTP/1.1" 200 1009 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:07 +0000] "POST /zabbix.php?action=menu.popup&type=host HTTP/1.1" 200 1009 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:08 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:08 +0000] "GET /zabbix.php?action=softwareversioncheck.get HTTP/1.1" 200 66 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:08 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 73 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:08 +0000] "POST /zabbix.php?action=menu.popup&type=host HTTP/1.1" 200 1009 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "GET /zabbix.php?action=host.dashboard.view&hostid=10084 HTTP/1.1" 200 9848 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "GET /jsLoader.php?lang=en_US&ver=7.0.26&showGuiMessaging=1 HTTP/1.1" 304 0 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "GET /jsLoader.php?ver=7.0.26&lang=en_US&files%5B0%5D=class.dashboard.js&files%5B1%5D=class.dashboard.page.js&files%5B2%5D=class.dashboard.widget.placeholder.js&files%5B3%5D=class.form.fieldset.collapsible.js&files%5B4%5D=class.widgets-data.js&files%5B5%5D=class.widget-base.js&files%5B6%5D=class.widget.js&files%5B7%5D=class.widget.inaccessible.js&files%5B8%5D=class.widget.iterator.js&files%5B9%5D=class.widget.misconfigured.js&files%5B10%5D=class.widget.paste-placeholder.js&files%5B11%5D=class.calendar.js&files%5B12%5D=class.csvggraph.js&files%5B13%5D=class.svg.canvas.js&files%5B14%5D=class.svg.map.js&files%5B15%5D=d3.js&files%5B16%5D=flickerfreescreen.js&files%5B17%5D=gtlc.js&files%5B18%5D=items.js&files%5B19%5D=layout.mode.js&files%5B20%5D=leaflet.js&files%5B21%5D=leaflet.markercluster.js&files%5B22%5D=class.geomaps.js&files%5B23%5D=multilineinput.js&files%5B24%5D=servercheck.js&files%5B25%5D=class.software-version-check.js HTTP/1.1" 200 1441884 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "POST /zabbix.php?action=timeselector.update&type=11 HTTP/1.1" 200 229 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "POST /zabbix.php?action=widget.graphprototype.view HTTP/1.1" 200 704 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "POST /zabbix.php?action=widget.graphprototype.view HTTP/1.1" 200 1784 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "POST /zabbix.php?action=widget.graph.view HTTP/1.1" 200 1213 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "POST /zabbix.php?action=widget.graph.view HTTP/1.1" 200 1181 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "POST /zabbix.php?action=widget.graph.view HTTP/1.1" 200 1190 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "POST /zabbix.php?action=widget.graph.view HTTP/1.1" 200 1172 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "GET /chart2.php?graphid=3152&width=1198&height=300&legend=1&from=now-1h&to=now&resolve_macros=1&profileIdx=web.dashboard.filter&profileIdx2=0&outer=1&widget_view=1&_=xte8rxpm&onlyHeight=1 HTTP/1.1" 200 101 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "GET /chart6.php?graphid=3155&graph3d=1&width=392&height=300&legend=1&from=now-1h&to=now&resolve_macros=1&profileIdx=web.dashboard.filter&profileIdx2=0&widget_view=1&_=xte8rxqd HTTP/1.1" 200 9930 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "GET /chart6.php?graphid=3156&graph3d=1&width=392&height=300&legend=1&from=now-1h&to=now&resolve_macros=1&profileIdx=web.dashboard.filter&profileIdx2=0&widget_view=1&_=xte8rxqg HTTP/1.1" 200 9810 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "GET /chart6.php?graphid=3154&graph3d=1&width=392&height=300&legend=1&from=now-1h&to=now&resolve_macros=1&profileIdx=web.dashboard.filter&profileIdx2=0&widget_view=1&_=xte8rxqf HTTP/1.1" 200 9974 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:09 +0000] "GET /chart2.php?graphid=3152&width=1198&height=300&legend=1&from=now-1h&to=now&resolve_macros=1&profileIdx=web.dashboard.filter&profileIdx2=0&outer=1&widget_view=1 HTTP/1.1" 200 21749 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:11 +0000] "GET /zabbix.php?action=dashboard.view HTTP/1.1" 200 11087 "http://localhost:8080/zabbix.php?action=host.dashboard.view&hostid=10084" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:11 +0000] "GET /jsLoader.php?lang=en_US&ver=7.0.26&showGuiMessaging=1 HTTP/1.1" 304 0 "http://localhost:8080/zabbix.php?action=dashboard.view" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:11 +0000] "GET /jsLoader.php?ver=7.0.26&lang=en_US&files%5B0%5D=class.dashboard.js&files%5B1%5D=class.dashboard.page.js&files%5B2%5D=class.dashboard.widget.placeholder.js&files%5B3%5D=class.form.fieldset.collapsible.js&files%5B4%5D=class.tagfilteritem.js&files%5B5%5D=class.widgets-data.js&files%5B6%5D=class.widget-base.js&files%5B7%5D=class.widget.js&files%5B8%5D=class.widget.inaccessible.js&files%5B9%5D=class.widget.iterator.js&files%5B10%5D=class.widget.misconfigured.js&files%5B11%5D=class.widget.paste-placeholder.js&files%5B12%5D=class.widget-field.checkbox-list.js&files%5B13%5D=class.widget-field.multiselect.js&files%5B14%5D=class.widget-field.time-period.js&files%5B15%5D=class.widget-select.popup.js&files%5B16%5D=d3.js&files%5B17%5D=class.calendar.js&files%5B18%5D=class.cnavtree.js&files%5B19%5D=class.coverride.js&files%5B20%5D=class.crangecontrol.js&files%5B21%5D=class.csvggraph.js&files%5B22%5D=class.svg.canvas.js&files%5B23%5D=class.svg.map.js&files%5B24%5D=colorpicker.js&files%5B25%5D=flickerfreescreen.js&files%5B26%5D=gtlc.js&files%5B27%5D=items.js&files%5B28%5D=layout.mode.js&files%5B29%5D=leaflet.js&files%5B30%5D=leaflet.markercluster.js&files%5B31%5D=class.geomaps.js&files%5B32%5D=multilineinput.js&files%5B33%5D=servercheck.js&files%5B34%5D=class.software-version-check.js HTTP/1.1" 304 0 "http://localhost:8080/zabbix.php?action=dashboard.view" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:11 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:12 +0000] "POST /zabbix.php?action=widget.clock.view HTTP/1.1" 200 524 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:12 +0000] "POST /zabbix.php?action=widget.item.view HTTP/1.1" 200 858 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:12 +0000] "POST /zabbix.php?action=widget.systeminfo.view HTTP/1.1" 200 1662 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:12 +0000] "POST /zabbix.php?action=widget.hostavail.view HTTP/1.1" 200 813 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:12 +0000] "POST /zabbix.php?action=widget.svggraph.view HTTP/1.1" 200 3919 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:12 +0000] "POST /zabbix.php?action=widget.tophosts.view HTTP/1.1" 200 1960 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:12 +0000] "POST /zabbix.php?action=widget.problemsbysv.view HTTP/1.1" 200 845 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:12 +0000] "POST /zabbix.php?action=widget.problems.view HTTP/1.1" 200 550 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:12 +0000] "POST /zabbix.php?action=widget.geomap.view HTTP/1.1" 200 1073 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:16 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:16 +0000] "GET /zabbix.php?action=softwareversioncheck.get HTTP/1.1" 200 66 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:16 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 73 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:21 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:26 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:27 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 73 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:31 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:36 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:37 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 73 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:41 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:46 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:47 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 73 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:51 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:56 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:16:57 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 73 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:02 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:07 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:07 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 73 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:12 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:12 +0000] "POST /zabbix.php?action=dashboard.config.hash HTTP/1.1" 200 68 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:12 +0000] "POST /zabbix.php?action=widget.item.view HTTP/1.1" 200 859 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:12 +0000] "POST /zabbix.php?action=widget.problemsbysv.view HTTP/1.1" 200 845 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:12 +0000] "POST /zabbix.php?action=widget.svggraph.view HTTP/1.1" 200 3919 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:12 +0000] "POST /zabbix.php?action=widget.tophosts.view HTTP/1.1" 200 1959 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:12 +0000] "POST /zabbix.php?action=widget.problems.view HTTP/1.1" 200 550 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:12 +0000] "POST /zabbix.php?action=widget.geomap.view HTTP/1.1" 200 245 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:16 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:17 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 73 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:21 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:26 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:27 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 73 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:31 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:36 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:37 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 73 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:42 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:47 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:48 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 74 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:52 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:57 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:17:59 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 74 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:02 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:06 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:09 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 74 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:12 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:12 +0000] "POST /zabbix.php?action=dashboard.config.hash HTTP/1.1" 200 68 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:12 +0000] "POST /zabbix.php?action=widget.problemsbysv.view HTTP/1.1" 200 845 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:12 +0000] "POST /zabbix.php?action=widget.item.view HTTP/1.1" 200 859 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:12 +0000] "POST /zabbix.php?action=widget.svggraph.view HTTP/1.1" 200 3919 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:12 +0000] "POST /zabbix.php?action=widget.tophosts.view HTTP/1.1" 200 1958 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:12 +0000] "POST /zabbix.php?action=widget.geomap.view HTTP/1.1" 200 245 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:12 +0000] "POST /zabbix.php?action=widget.problems.view HTTP/1.1" 200 550 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:17 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:20 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 74 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:22 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:27 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:31 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 74 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:32 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:37 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:42 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:42 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 74 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:47 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:52 +0000] "POST /zabbix.php?action=notifications.get&output=ajax HTTP/1.1" 200 556 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"
+lab-zabbix-web     | 172.18.0.1 - - [14/May/2026:00:18:53 +0000] "POST /jsrpc.php?output=json-rpc HTTP/1.1" 200 74 "http://localhost:8080/zabbix.php?action=dashboard.view&dashboardid=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0" "-"

@@ -1,0 +1,6 @@
+[zabbix_agents]
+# Reemplaza por la IP pública o privada de tu VM Ubuntu
+# vm-cloud-01 ansible_host=1.2.3.4 ansible_user=ubuntu
+
+[zabbix_agents:vars]
+zbx_server_ip=127.0.0.1

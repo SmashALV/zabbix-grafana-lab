@@ -1,0 +1,72 @@
+{
+  "annotations": {
+    "list": []
+  },
+  "editable": true,
+  "fiscalYearStartMonth": 0,
+  "graphTooltip": 0,
+  "links": [],
+  "panels": [
+    {
+      "type": "text",
+      "title": "Proyecto de portafolio",
+      "gridPos": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 5
+      },
+      "options": {
+        "mode": "markdown",
+        "content": "# Infraestructura de redes y monitoreo con Zabbix + Grafana\n\nUsa este dashboard como base. Agrega paneles desde el datasource **Zabbix** para CPU, memoria, disco, disponibilidad HTTP y problemas activos."
+      }
+    },
+    {
+      "type": "text",
+      "title": "Paneles que debes crear",
+      "gridPos": {
+        "x": 0,
+        "y": 5,
+        "w": 12,
+        "h": 7
+      },
+      "options": {
+        "mode": "markdown",
+        "content": "- CPU del host `LAB - Docker Agent2`\n- Memoria disponible/usada\n- Disco usado\n- Web scenario: `Python App Healthcheck`\n- Web scenario: `Nginx Healthcheck`\n- Problems activos"
+      }
+    },
+    {
+      "type": "text",
+      "title": "Evidencia",
+      "gridPos": {
+        "x": 12,
+        "y": 5,
+        "w": 12,
+        "h": 7
+      },
+      "options": {
+        "mode": "markdown",
+        "content": "Captura este dashboard cuando ya muestre datos reales. Incluye la captura en `evidence/` y descr\u00edbela en tu informe final."
+      }
+    }
+  ],
+  "schemaVersion": 39,
+  "tags": [
+    "zabbix",
+    "grafana",
+    "autoaprendizaje"
+  ],
+  "templating": {
+    "list": []
+  },
+  "time": {
+    "from": "now-6h",
+    "to": "now"
+  },
+  "timepicker": {},
+  "timezone": "browser",
+  "title": "Portafolio - Zabbix Grafana",
+  "uid": "portfolio-zabbix-grafana",
+  "version": 1,
+  "weekStart": ""
+}
