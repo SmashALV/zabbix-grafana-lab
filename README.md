@@ -1,9 +1,5 @@
 # Proyecto de autoaprendizaje: Infraestructura de redes y monitoreo de servidores con Zabbix + Grafana
 
-**Perfil objetivo:** alumno de pregrado en formación de Ingeniería de Sistemas que conoce Python y desea construir experiencia comprobable en Linux, Git, cloud, automatización, observabilidad y networking.
-
-**Duración sugerida:** 2 semanas, 3 horas por día, 14 sesiones.
-
 **Resultado esperado para portafolio:** un laboratorio funcional local o cloud donde se monitorean servicios Linux, una aplicación Python, disponibilidad HTTP, consumo de CPU/memoria/disco, eventos de red y visualización en Grafana usando Zabbix como fuente de datos.
 
 ---
