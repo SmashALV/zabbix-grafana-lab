@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.28.3
+Date: Thu, 14 May 2026 03:10:34 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Keep-Alive: timeout=20
+X-Powered-By: PHP/8.5.5
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: zbx_session=eyJzZXNzaW9uaWQiOiJkMzg3MTJiYzU0ZGY0ZjQ0ZTkwOTYzNzA5ZWZhNTk3MCIsInNpZ24iOiJhMzBlZjRkNzg0NzIwZmEwNDNlYjQ0M2FkMjgxMzg3NTgxMGQxYzU3ZTlkMDRiYzhjOTlkMTJlYTFjNjFlNTk3In0%3D; HttpOnly
+

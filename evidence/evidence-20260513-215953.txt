@@ -1,0 +1,102 @@
+# Evidencia automática - 20260513-215953
+
+## Git
+?? evidence/evidence-20260513-215953.txt
+?? evidence/fase7_00_curl_flask_health.txt
+?? evidence/fase7_00_curl_grafana.txt
+?? evidence/fase7_00_curl_nginx.txt
+?? evidence/fase7_00_curl_zabbix.txt
+?? evidence/fase7_00_estado_final_docker_compose_ps.txt
+296dc85 docs: agregar evidencias de networking y diagnostico linux
+0c97c96 test: documentar fallos controlados y recuperacion de servicios
+fa4df1b feat: crear dashboard de observabilidad en grafana
+d8ea686 feat: automatizar alta inicial de hosts en zabbix
+2ac8386 Merge branch 'main' of https://github.com/SmashALV/zabbix-grafana-lab wq
+b02a46e agregar mdfase1
+eda7f87 Update README to streamline project description
+73a79b4 feat: levatar laboratorio local con docker compose
+
+## Docker compose ps
+NAME                IMAGE                                             COMMAND                  SERVICE         CREATED       STATUS                    PORTS
+lab-grafana         grafana/grafana-oss:12.1.0                        "/run.sh"                grafana         2 hours ago   Up 2 hours                0.0.0.0:3000->3000/tcp, [::]:3000->3000/tcp
+lab-nginx           nginx:1.27-alpine                                 "/docker-entrypoint.…"   sample-nginx    2 hours ago   Up 36 minutes             0.0.0.0:8081->80/tcp, [::]:8081->80/tcp
+lab-postgres        postgres:16-alpine                                "docker-entrypoint.s…"   postgres        2 hours ago   Up 2 hours (healthy)      5432/tcp
+lab-python-app      proyecto-gestion-zabbix-python-app                "python app.py"          python-app      2 hours ago   Up 32 minutes (healthy)   0.0.0.0:5000->5000/tcp, [::]:5000->5000/tcp
+lab-zabbix-agent2   zabbix/zabbix-agent2:alpine-7.0-latest            "/usr/bin/docker-ent…"   zabbix-agent2   2 hours ago   Up 2 hours                0.0.0.0:10050->10050/tcp, [::]:10050->10050/tcp
+lab-zabbix-server   zabbix/zabbix-server-pgsql:alpine-7.0-latest      "/usr/bin/docker-ent…"   zabbix-server   2 hours ago   Up 2 hours                0.0.0.0:10051->10051/tcp, [::]:10051->10051/tcp
+lab-zabbix-web      zabbix/zabbix-web-nginx-pgsql:alpine-7.0-latest   "docker-entrypoint.sh"   zabbix-web      2 hours ago   Up 2 hours (healthy)      0.0.0.0:8080->8080/tcp, [::]:8080->8080/tcp
+
+## Contenedores
+NAMES               STATUS                    PORTS
+lab-grafana         Up 2 hours                0.0.0.0:3000->3000/tcp, [::]:3000->3000/tcp
+lab-zabbix-web      Up 2 hours (healthy)      0.0.0.0:8080->8080/tcp, [::]:8080->8080/tcp
+lab-zabbix-agent2   Up 2 hours                0.0.0.0:10050->10050/tcp, [::]:10050->10050/tcp
+lab-zabbix-server   Up 2 hours                0.0.0.0:10051->10051/tcp, [::]:10051->10051/tcp
+lab-postgres        Up 2 hours (healthy)      5432/tcp
+lab-nginx           Up 36 minutes             0.0.0.0:8081->80/tcp, [::]:8081->80/tcp
+lab-python-app      Up 32 minutes (healthy)   0.0.0.0:5000->5000/tcp, [::]:5000->5000/tcp
+
+## Puertos locales
+Netid State  Recv-Q Send-Q  Local Address:Port  Peer Address:PortProcess                        
+udp   UNCONN 0      0      10.255.255.254:53         0.0.0.0:*                                  
+udp   UNCONN 0      0           127.0.0.1:323        0.0.0.0:*                                  
+udp   UNCONN 0      0               [::1]:323           [::]:*                                  
+tcp   LISTEN 0      1000   10.255.255.254:53         0.0.0.0:*                                  
+tcp   LISTEN 0      511         127.0.0.1:36725      0.0.0.0:*    users:(("node",pid=283,fd=21))
+tcp   LISTEN 0      4096                *:10051            *:*                                  
+tcp   LISTEN 0      4096                *:10050            *:*                                  
+tcp   LISTEN 0      4096                *:3000             *:*                                  
+tcp   LISTEN 0      4096                *:5000             *:*                                  
+tcp   LISTEN 0      4096                *:8081             *:*                                  
+tcp   LISTEN 0      4096                *:8080             *:*                                  
+
+## Pruebas HTTP
+### http://localhost:8080
+HTTP/1.1 200 OK
+Server: nginx/1.28.3
+Date: Thu, 14 May 2026 02:59:54 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Keep-Alive: timeout=20
+X-Powered-By: PHP/8.5.5
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: zbx_session=eyJzZXNzaW9uaWQiOiJmYzA3YmFhMDIyNjcwZTk5Y2QzNjQxYWI5YzhhMzkxZiIsInNpZ24iOiIxYzNjMjkyOGE2MGM1OTkxMjYyZjgxMDVlM2I5NWZmYzMwYmE2MmIxNGE0OGExOGNmNTk1ZjRmYzQxNmUyNmEwIn0%3D; HttpOnly
+
+
+### http://localhost:3000
+HTTP/1.1 302 Found
+Cache-Control: no-store
+Content-Type: text/html; charset=utf-8
+Location: /login
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Xss-Protection: 1; mode=block
+Date: Thu, 14 May 2026 02:59:54 GMT
+
+
+### http://localhost:5000/health
+HTTP/1.1 200 OK
+Server: Werkzeug/3.1.8 Python/3.12.13
+Date: Thu, 14 May 2026 02:59:54 GMT
+Content-Type: application/json
+Content-Length: 124
+Connection: close
+
+
+### http://localhost:8081
+HTTP/1.1 200 OK
+Server: nginx/1.27.5
+Date: Thu, 14 May 2026 02:59:54 GMT
+Content-Type: text/html
+Content-Length: 615
+Last-Modified: Wed, 16 Apr 2025 12:55:34 GMT
+Connection: keep-alive
+ETag: "67ffa8c6-267"
+Accept-Ranges: bytes
+
+

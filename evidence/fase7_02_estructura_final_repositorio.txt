@@ -1,0 +1,148 @@
+.
+├── LeerTambien.md
+├── README.md
+├── ansible
+│   ├── install-zabbix-agent2.yml
+│   └── inventory.ini.example
+├── app
+│   ├── Dockerfile
+│   ├── app.py
+│   └── requirements.txt
+├── cloud
+│   ├── aws-terraform
+│   │   ├── main.tf
+│   │   └── variables.tf
+│   └── cloud-init-docker-ubuntu.yml
+├── docker-compose.yml
+├── docs
+│   ├── 01_roadmap_14_dias.md
+│   ├── 02_comandos_linux_git_networking.md
+│   ├── 03_configuracion_zabbix_grafana.md
+│   ├── 04_evidencias_portafolio.md
+│   ├── 05_rubrica_autoevaluacion.md
+│   ├── 06_troubleshooting.md
+│   ├── 07_recursos_verificados.md
+│   └── 08_reporte_final_portafolio.md
+├── evidence
+│   ├── README.md
+│   ├── docker_compose_config.txt
+│   ├── evidence-20260513-215953.txt
+│   ├── fase2_01_docker_compose_ps.png
+│   ├── fase2_02_zabbix_web_login.png
+│   ├── fase2_03_grafana_login.png
+│   ├── fase2_04_flask_health.png
+│   ├── fase2_05_nginx_demo.png
+│   ├── fase2_curl_flask_health.txt
+│   ├── fase2_curl_grafana.txt
+│   ├── fase2_curl_nginx.txt
+│   ├── fase2_curl_zabbix.txt
+│   ├── fase2_docker_compose_ps.txt
+│   ├── fase2_docker_logs_tail.txt
+│   ├── fase3_01_script_api_output.png
+│   ├── fase3_02_zabbix_host_group.png
+│   ├── fase3_03_zabbix_hosts_created.png
+│   ├── fase3_04_python_app_web_scenario.png
+│   ├── fase3_05_nginx_web_scenario.png
+│   ├── fase3_06_latest_data_hosts.png
+│   ├── fase3_curl_zabbix_api_endpoint.txt
+│   ├── fase3_curl_zabbix_web.txt
+│   ├── fase3_docker_compose_ps.txt
+│   ├── fase3_zabbix_api_bootstrap_output.txt
+│   ├── fase4_01_grafana_datasource_zabbix.png
+│   ├── fase4_02_datasource_save_test_ok.png
+│   ├── fase4_03_dashboard_general.png
+│   ├── fase4_04_panel_python_app_http.png
+│   ├── fase4_05_panel_nginx_http.png
+│   ├── fase4_06_panel_cpu_memoria_disco.png
+│   ├── fase4_07_panel_problems.png
+│   ├── fase4_08_zabbix_latest_data.png
+│   ├── fase5_00_estado_inicial_docker_ps.txt
+│   ├── fase5_00_flask_health_ok.txt
+│   ├── fase5_00_nginx_ok.txt
+│   ├── fase5_01_nginx_curl_fallo.txt
+│   ├── fase5_01_nginx_detenido_docker_ps.txt
+│   ├── fase5_01_zabbix_sin_problemas.png
+│   ├── fase5_02_grafana_dashboard_sin_problemas.png
+│   ├── fase5_02_nginx_curl_recuperado.txt
+│   ├── fase5_02_nginx_recuperado_docker_ps.txt
+│   ├── fase5_03_python_app_curl_fallo.txt
+│   ├── fase5_03_python_app_detenido_docker_ps.txt
+│   ├── fase5_03_zabbix_problem_nginx.png
+│   ├── fase5_04_python_app_curl_recuperado.txt
+│   ├── fase5_04_python_app_recuperado_docker_ps.txt
+│   ├── fase5_04_zabbix_latest_data_nginx_fallo.png
+│   ├── fase5_05_grafana_problem_nginx.png
+│   ├── fase5_05_python_app_error_500.txt
+│   ├── fase5_06_zabbix_nginx_resuelto.png
+│   ├── fase5_07_grafana_nginx_resuelto.png
+│   ├── fase5_08_zabbix_problem_python_app.png
+│   ├── fase5_09_zabbix_latest_data_python_app_fallo.png
+│   ├── fase5_0A_Crear_Trigger_Python.png
+│   ├── fase5_0B_Crear_Trigger_NGINX.png
+│   ├── fase5_10_grafana_problem_python_app.png
+│   ├── fase5_11_A_Zabbix_latest_data_resuelto.png
+│   ├── fase5_11_zabbix_python_app_resuelto.png
+│   ├── fase5_12_grafana_python_app_resuelto.png
+│   ├── fase6_00_curl_flask_health.txt
+│   ├── fase6_00_curl_grafana.txt
+│   ├── fase6_00_curl_nginx.txt
+│   ├── fase6_00_curl_zabbix.txt
+│   ├── fase6_00_docker_compose_ps.txt
+│   ├── fase6_01_servicios_compose.txt
+│   ├── fase6_02_docker_network_ls.txt
+│   ├── fase6_03_docker_network_inspect.json
+│   ├── fase6_04_ss_puertos.png
+│   ├── fase6_04_ss_tulpn.txt
+│   ├── fase6_05_puertos_filtrados.txt
+│   ├── fase6_06_ip_addr.txt
+│   ├── fase6_07_ip_route.txt
+│   ├── fase6_08_curl_verbose_flask.txt
+│   ├── fase6_09_curl_verbose_nginx.txt
+│   ├── fase6_10_curl_verbose_zabbix.txt
+│   ├── fase6_11_curl_verbose_grafana.txt
+│   ├── fase6_12_grafana_to_zabbix_api.txt
+│   ├── fase6_13_zabbix_to_flask.txt
+│   ├── fase6_14_zabbix_to_nginx.txt
+│   ├── fase6_15_ping_zabbix_to_flask.txt
+│   ├── fase6_16_ping_zabbix_to_nginx.txt
+│   ├── fase6_17_ping_grafana_to_zabbixweb.txt
+│   ├── fase6_18_network_discovery_scan_localhost.txt
+│   ├── fase6_19_tracepath_google_dns.txt
+│   ├── fase6_20_traceroute_google_dns.txt
+│   ├── fase6_21_logs_zabbix_server.txt
+│   ├── fase6_22_logs_zabbix_web.txt
+│   ├── fase6_23_logs_grafana.txt
+│   ├── fase6_24_logs_python_app.txt
+│   ├── fase6_25_logs_nginx.txt
+│   ├── fase7_00_curl_flask_health.txt
+│   ├── fase7_00_curl_grafana.txt
+│   ├── fase7_00_curl_nginx.txt
+│   ├── fase7_00_curl_zabbix.txt
+│   ├── fase7_00_estado_final_docker_compose_ps.txt
+│   ├── fase7_01_lista_evidencias.txt
+│   ├── fase7_02_estructura_final_repositorio.txt
+│   ├── fase_1_entorno_local.md
+│   ├── fase_2_despliegue_local.md
+│   ├── fase_3_automatizacion_zabbix_api.md
+│   ├── fase_4_dashboard_grafana.md
+│   ├── fase_5_fallos_controlados.md
+│   └── fase_6_networking_diagnostico.md
+├── grafana
+│   ├── dashboards
+│   │   ├── dashboard-observabilidad-final.json
+│   │   └── portfolio-dashboard.json
+│   └── provisioning
+│       ├── dashboards
+│       └── datasources
+├── scripts
+│   ├── 00_check_prereqs.sh
+│   ├── 01_start_local_lab.sh
+│   ├── 02_stop_lab.sh
+│   ├── 03_zabbix_api_bootstrap.py
+│   ├── 04_generate_load.py
+│   ├── 05_network_discovery_scan.py
+│   ├── 06_install_agent_ubuntu.sh
+│   └── 07_export_evidence.sh
+└── zabbix-grafana-autoaprendizaje.zip
+
+12 directories, 133 files

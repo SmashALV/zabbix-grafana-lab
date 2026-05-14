@@ -1,0 +1,8 @@
+296dc85 docs: agregar evidencias de networking y diagnostico linux
+0c97c96 test: documentar fallos controlados y recuperacion de servicios
+fa4df1b feat: crear dashboard de observabilidad en grafana
+d8ea686 feat: automatizar alta inicial de hosts en zabbix
+2ac8386 Merge branch 'main' of https://github.com/SmashALV/zabbix-grafana-lab wq
+b02a46e agregar mdfase1
+eda7f87 Update README to streamline project description
+73a79b4 feat: levatar laboratorio local con docker compose

@@ -1,0 +1,5 @@
+total 32
+drwxr-xr-x 2 fabri fabri  4096 May 13 20:48 .
+drwxr-xr-x 4 fabri fabri  4096 May 13 17:37 ..
+-rw-r--r-- 1 fabri fabri 19150 May 13 22:09 dashboard-observabilidad-final.json
+-rwxr-xr-x 1 fabri fabri  1721 May 13 17:37 portfolio-dashboard.json

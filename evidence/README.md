@@ -1,16 +1,43 @@
-# Carpeta de evidencias
+# Evidencias del proyecto
 
-Guarda aquí capturas, reportes y archivos generados por `scripts/07_export_evidence.sh`.
+Esta carpeta contiene evidencias técnicas del laboratorio de monitoreo con Zabbix, Grafana, Docker, Flask y Nginx.
 
-Nombres recomendados:
+## Fase 2: Despliegue local
 
-- `01-docker-compose-ps.png`
-- `02-zabbix-home.png`
-- `03-zabbix-hosts.png`
-- `04-latest-data.png`
-- `05-problems.png`
-- `06-grafana-datasource.png`
-- `07-grafana-dashboard.png`
-- `08-git-log.png`
-- `09-networking-ports.png`
-- `10-cloud-vm.png`
+- Estado de contenedores con `docker compose ps`.
+- Validación HTTP de Zabbix, Grafana, Flask y Nginx.
+
+## Fase 3: Automatización con Zabbix API
+
+- Ejecución del script `03_zabbix_api_bootstrap.py`.
+- Creación de grupo de hosts.
+- Creación de hosts monitoreados.
+- Creación de escenarios web.
+
+## Fase 4: Dashboard en Grafana
+
+- Datasource Zabbix en Grafana.
+- Dashboard de disponibilidad HTTP.
+- Paneles de CPU, memoria, disco y problemas activos.
+
+## Fase 5: Fallos controlados
+
+- Detención controlada de Nginx.
+- Detección del problema en Zabbix.
+- Visualización del problema en Grafana.
+- Recuperación del servicio.
+- Detención y recuperación de Python Flask App.
+
+## Fase 6: Networking y diagnóstico
+
+- Puertos abiertos con `ss -tulpn`.
+- Interfaces y rutas con `ip addr` e `ip route`.
+- Escaneo local controlado con Python.
+- Pruebas HTTP con `curl -v`.
+- Comunicación interna entre contenedores.
+
+## Fase 7: Consolidación final
+
+- Estado final del laboratorio.
+- Reporte técnico.
+- README profesional actualizado.
